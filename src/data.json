@@ -30,7 +30,7 @@
       "id": 100,
       "name": "F91",
       "category_id": 1,
-      "icon": "http://www.hemiiot.com/uploads/allimg/20240528/1-24052PH52a05.png",
+      "icon": "/f91/icon/1.png",
       "features": [
         "Can be used alone or nested on the desktop",
         "Generate dynamic QR codes/images/text in real time",
@@ -43,7 +43,7 @@
         "Audio content sampling rates: 8kHz to 48kHz"
       ],
       "description": "F91 is a QR code generator with good performance. It supports multi-scenario payment methods, including desktop payment solutions, by connecting to cash registers through USB interfaces and displaying dynamic payment QR codes.",
-      "main_image": "http://www.hemiiot.com/uploads/allimg/20240417/1-24041GK921238.jpg",
+      "main_image": "/f91/detail/1.jpg",
       "function": [
         {
         "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
@@ -75,11 +75,11 @@
       }
     ],
       "images": [
-        "http://www.hemiiot.com/uploads/allimg/20240417/1-24041GK921238.jpg",
-        "http://www.hemiiot.com/uploads/allimg/20240417/1-24041GK921452.jpg",
-        "http://www.hemiiot.com/uploads/allimg/20240417/1-24041GK922621.jpg",
-        "http://www.hemiiot.com/uploads/allimg/20240509/1-24050915434T35.jpg",
-        "http://www.hemiiot.com/uploads/allimg/20240509/1-24050915435M37.jpg"
+        "/f91/detail/1.jpg",
+        "/f91/detail/2.jpg",
+        "/f91/detail/3.jpg",
+        "/f91/detail/4.jpg",
+        "/f91/detail/5.jpg"
       ],
       "technical_info": [
   {

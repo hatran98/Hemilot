@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        'poppins': ['Poppins', 'AlibabaPuHuiTi-2-45-Light' ],
+      },
       container: {
         center: true,          // Căn giữa container
         padding: '2rem',       // Padding mặc định (khoảng cách từ lề)

@@ -32,7 +32,7 @@ const ProductDetail = () => {
                     <div className="space-y-4">
                         <div>
                             <img
-                                src={mainImage}
+                                src={`/public/images/${mainImage}`}
                                 alt={product.name}
                                 className="w-full h-auto object-cover rounded-lg"
                             />
@@ -62,7 +62,7 @@ const ProductDetail = () => {
                             {product.images.map((image, index) => (
                                 <img
                                     key={index}
-                                    src={image}
+                                    src={`/public/images/${image}`}
                                     alt={`product-image-${index}`}
                                     className={`w-24 h-24 object-cover rounded-lg cursor-pointer border-2 transition-all ${currentIndex == index ? "border-orange-500" : "border-gray-300"
                                         }`}
