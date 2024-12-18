@@ -1,4 +1,3 @@
-import React from 'react';
 import { FaPhone, FaFacebook, FaInstagram, FaTelegramPlane } from 'react-icons/fa'; // Import các icon từ React Icons
 
 const Footer = () => {

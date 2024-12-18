@@ -1,5 +1,3 @@
-import React from "react";
-
 const News = () => {
   return (
     <div className="bg-white py-16">

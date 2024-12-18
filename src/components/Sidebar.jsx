@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const Sidebar = () => {
   // State để điều khiển việc mở/đóng sidebar trên mobile

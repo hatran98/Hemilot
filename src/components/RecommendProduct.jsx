@@ -1,5 +1,3 @@
-import React from "react";
-
 const RecommendedProducts = () => {
   // Dữ liệu sản phẩm giả lập (có thể thay đổi theo dữ liệu thực tế của bạn)
   const products = [

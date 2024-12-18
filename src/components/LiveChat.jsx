@@ -1,4 +1,3 @@
-import React from 'react';
 import { FaWhatsapp, FaSkype, FaArrowUp, FaFacebookMessenger } from 'react-icons/fa'; // Import các icon
 
 const LiveChat = () => {
