@@ -1,0 +1,3797 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "QR Code Display"
+    },
+    {
+      "id": 2,
+      "name": "Static QR Code Payment Speaker"
+    },
+    {
+      "id": 3,
+      "name": "Dynamic QR Code Payment Speaker"
+    },
+    {
+      "id": 4,
+      "name": "Payment Speaker"
+    },
+    {
+      "id": 5,
+      "name": "QR Code Scanner Device"
+    },
+    {
+      "id": 6,
+      "name": "QR Code Payment Printer"
+    }
+  ],
+  "products": [
+    {
+      "id": 100,
+      "name": "F91",
+      "category_id": 1,
+      "icon": "http://www.hemiiot.com/uploads/allimg/20240528/1-24052PH52a05.png",
+      "features": [
+        "Can be used alone or nested on the desktop",
+        "Generate dynamic QR codes/images/text in real time",
+        "2.4' TFT LCD colour display",
+        "5V USB connection, no batteries required",
+        "Tri-colour status light",
+        "Support Windows / Android 8 (above) / Linux / POS terminal /cash register operating system",
+        "Support buzzer (optional)",
+        "Support custom colour/panel design",
+        "Audio content sampling rates: 8kHz to 48kHz"
+      ],
+      "description": "F91 is a QR code generator with good performance. It supports multi-scenario payment methods, including desktop payment solutions, by connecting to cash registers through USB interfaces and displaying dynamic payment QR codes.",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240417/1-24041GK921238.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Dynamic Display"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153122B6.png",
+        "content":"3.5' LCD Display"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153110157.png",
+        "content":"USB Connection"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": [
+        "http://www.hemiiot.com/uploads/allimg/20240417/1-24041GK921238.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240417/1-24041GK921452.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240417/1-24041GK922621.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-24050915434T35.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-24050915435M37.jpg"
+      ],
+      "technical_info": [
+  {
+    "technical_ico": "Screen",
+    "content": "2.4’ TFT LCD Color Display",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532391K.png"
+  },
+  {
+    "technical_ico": "Network connection",
+    "content": "USB connection only",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153243343.png"
+  },
+  {
+    "technical_ico": "Chip",
+    "content": "32bit ARM Cortex 4",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532444H.png"
+  },
+  {
+    "technical_ico": "Language",
+    "content": "The sample defaults to English/no restrictions on any country, the language can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324H34.png"
+  },
+  {
+    "technical_ico": "Battery",
+    "content": "Device is USB powered, no battery",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323B21.png"
+  },
+  {
+    "technical_ico": "Interface",
+    "content": "USB Port",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322U47.png"
+  },
+  {
+    "technical_ico": "LOGO",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153251130.png"
+  },
+  {
+    "technical_ico": "Panel",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153245607.png"
+  },
+  {
+    "technical_ico": "Packaging",
+    "content": "Default kraft paper or white carton/can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153231U1.png"
+  },
+  {
+    "technical_ico": "Size",
+    "content": "161*72.5*92mm",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153234442.png"
+  },
+  {
+    "technical_ico": "Certificate",
+    "content": "Product Quality Certificate/Relevant Certifications You Need",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153229439.png"
+  },
+  {
+    "technical_ico": "Customization",
+    "content": "language, LOGO, panel, packaging",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153250193.png"
+  }
+]
+    },
+    {
+      "id": 101,
+      "name": "F92",
+      "category_id": 1,
+      "icon": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509154235c2.jpg",
+      "features": [
+        "Generate dynamic QR codes/images/text in real time",
+        "3.5' TFT LCD colour display",
+        "5V USB connection, no batteries required",
+        "Tri-colour status light",
+        "Support Windows / Android 8 (above) / Linux / POS terminal /cash register operating system",
+        "Real voice（3W Speaker）",
+        "Support buzzer (optional)",
+        "Support custom colour/panel design",
+        "Audio content sampling rates: 8kHz to 48kHz"
+      ],
+      "description": "F92 is a QR code generator with 3.5' LCD display with live speaker. It supports multi-scenario payment methods, including desktop payment solutions, by connecting to cash registers through USB interfaces and displaying dynamic payment QR codes.",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160456127.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Dynamic Display"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153122B6.png",
+        "content":"2.4' LCD display"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153110157.png",
+        "content":"USB Connection"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": [
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160456127.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160532220.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160426292.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160430610.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-24050916043VM.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160515a7.jpg"
+      ],
+      "technical_info": [
+        {
+          "technical_ico": "Screen",
+          "content": "3.5’ TFT LCD Color Display",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532391K.png"
+        },
+        {
+          "technical_ico": "Network connection",
+          "content": "USB connection only",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153243343.png"
+        },
+        {
+          "technical_ico": "Chip",
+          "content": "32bit ARM Cortex 4",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532444H.png"
+        },
+        {
+          "technical_ico": "Language",
+          "content": "The sample defaults to English/no restrictions on any country, the language can be customized",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324H34.png"
+        },
+        {
+          "technical_ico": "Battery",
+          "content": "Device is USB powered, no battery",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323B21.png"
+        },
+        {
+          "technical_ico": "Speaker",
+          "content": "Buzzer/Real voice (3W Speaker)",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153246494.png"
+        },
+        {
+          "technical_ico": "Interface",
+          "content": "USB Port",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322U47.png"
+        },
+        {
+          "technical_ico": "LED light",
+          "content": "Blue/Red/Green",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153249635.png"
+        },
+        {
+          "technical_ico": "LOGO",
+          "content": "Default English neutral/customizable",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240518/1-24051Q51H4J7.png"
+        },
+        {
+          "technical_ico": "Panel",
+          "content": "Default English neutral/customizable",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153245607.png"
+        },
+        {
+          "technical_ico": "Packaging",
+          "content": "Default kraft paper or white carton/can be customized",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153231U1.png"
+        },
+        {
+          "technical_ico": "Size",
+          "content": "140*66*40mm",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153234442.png"
+        },
+        {
+          "technical_ico": "Certificate",
+          "content": "Product Quality Certificate/Relevant Certifications You Need",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153229439.png"
+        },
+        {
+          "technical_ico": "Customization",
+          "content": "language, LOGO, panel, packaging",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153250193.png"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Y90A",
+      "category_id": 2,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6152PQ49.jpg",
+      "features": [
+        "Support 4G + WIFI",
+        "Chipset ROM+RAM: 8MB+8MB/4MB+4MB (option)",
+        "2W HD speaker",
+        "Weight: 60g",
+        "Dimension is 102*60*11mm",
+        "Wearing method: Halter or Jacket",
+        "Support 4 keypad",
+        "Real-time voice broadcast",
+        "1250mAh Li-Polymer battery",
+        "Charging interface is Type-C input: 5V/1A",
+        "Support Nano SIM card",
+        "Support OTA upgrade",
+        "Audio content sampling rates: 8kHz to 48kHz",
+        "Customized logo, color, etc"
+      ],
+      "description": "Y90A is designed for portable payment terminal. Network supports 4G/WIFI payment collection, solving problems of slow or untimely ordering effectively.",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240817/1-240QG63KW32.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Static QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": [
+        "http://www.hemiiot.com/uploads/allimg/20240817/1-240QG63KW32.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240817/1-240QG63P3R5.png",
+        "http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6152QJX.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240817/1-240QG63P1450.png"
+      ],
+     "technical_info": [
+  {
+    "technical_ico": "Screen",
+    "content": "2.4-inch dynamic QR code Screen",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532391K.png"
+  },
+  {
+    "technical_ico": "Network",
+    "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153243343.png"
+  },
+  {
+    "technical_ico": "Chip",
+    "content": "ASR Multi-mode IoT chip",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532444H.png"
+  },
+  {
+    "technical_ico": "RAM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324UN.png"
+  },
+  {
+    "technical_ico": "ROM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153235A5.png"
+  },
+  {
+    "technical_ico": "Language",
+    "content": "The sample defaults to English/no restrictions on any country, the language can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324H34.png"
+  },
+  {
+    "technical_ico": "Battery",
+    "content": "3.7V/2000mAh Li-Polymer battery (can be customized)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323B21.png"
+  },
+  {
+    "technical_ico": "Speaker",
+    "content": "4Ω/3W HD speaker",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153246494.png"
+  },
+  {
+    "technical_ico": "Interface",
+    "content": "Type-C 5V1A charging interface",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322U47.png"
+  },
+  {
+    "technical_ico": "SIM card",
+    "content": "Nano SIM card",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322Y27.png"
+  },
+  {
+    "technical_ico": "LED light",
+    "content": "Blue/Red/Green",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153249635.png"
+  },
+  {
+    "technical_ico": "OTA upgrade",
+    "content": "Support",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322H06.png"
+  },
+  {
+    "technical_ico": "Button",
+    "content": "Volume +, Volume -, Power on/off, Repeat broadcast",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532304C.png"
+  },
+  {
+    "technical_ico": "Working temperature",
+    "content": "-10℃～60℃",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A2215a.png"
+  },
+  {
+    "technical_ico": "Size",
+    "content": "102.5*103.7*103.9mm",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153234442.png"
+  },
+  {
+    "technical_ico": "LOGO",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240518/1-24051Q51H4J7.png"
+  },
+  {
+    "technical_ico": "Panel",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153245607.png"
+  },
+  {
+    "technical_ico": "Packaging",
+    "content": "Default kraft paper or white carton/can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153231U1.png"
+  },
+  {
+    "technical_ico": "Certificate",
+    "content": "Product Quality Certificate/Relevant Certifications You Need",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153229439.png"
+  },
+  {
+    "technical_ico": "Optional",
+    "content": "Network mode, RAM, ROM",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323O27.png"
+  },
+  {
+    "technical_ico": "Customization",
+    "content": "Battery, language, LOGO, panel, packaging",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532261T.png"
+  }
+]
+    },
+    {
+      "id": 103,
+      "name": "MD705",
+      "category_id": 2,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240417/1-24041GT152191.jpg",
+      "features": [
+        "Support 4G/2G/WIFI different network combination configuration optional",
+        "Network Smart Switching",
+        "Low latency of transaction information",
+        "3W loudspeaker Real-time voice broadcast(volume adjustable)",
+        "Tri-colour status light",
+        "Low-power devices have built-in batteries for worry-free use",
+        "Low battery warning function",
+        "Support custom colour/panel design",
+        "Audio content sampling rates: 8kHz to 48kHz"
+      ],
+      "description": "MD705 is a 4G mobile phone specially launched for payment collection and broadcasting in shopping malls, stores, and grocery shops. It integrates a 3W loudspeaker, LCD break code screen (optional), real-time voice broadcast, and display of the current payment amount. This device effectively addresses slow collection, missed collection, wrong collection, and QR code replacement issues.",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160H0647.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Static QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153125428.png",
+        "content":"Status light"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": [
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160H0647.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160I4302.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160H1C7.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160I1314.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160I2X4.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160K2L6.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160K12N.jpg"
+      ],
+      "technical_info": [
+  {
+    "technical_ico": "Screen",
+    "content": "Static QR code/custom panel",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532391K.png"
+  },
+  {
+    "technical_ico": "Network",
+    "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153243343.png"
+  },
+  {
+    "technical_ico": "Chip",
+    "content": "ASR/MTK",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532444H.png"
+  },
+  {
+    "technical_ico": "RAM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324UN.png"
+  },
+  {
+    "technical_ico": "ROM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153235A5.png"
+  },
+  {
+    "technical_ico": "Language",
+    "content": "The sample defaults to English/no restrictions on any country, the language can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324H34.png"
+  },
+  {
+    "technical_ico": "Battery",
+    "content": "3.7V/2000mAh Li-Polymer battery (can be customized)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323B21.png"
+  },
+  {
+    "technical_ico": "Speaker",
+    "content": "4Ω/3W HD speaker",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153246494.png"
+  },
+  {
+    "technical_ico": "Interface",
+    "content": "Type-C 5V1A charging interface",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322U47.png"
+  },
+  {
+    "technical_ico": "SIM card",
+    "content": "Nano SIM card",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322Y27.png"
+  },
+  {
+    "technical_ico": "LED light",
+    "content": "Blue/Red/Green",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153249635.png"
+  },
+  {
+    "technical_ico": "OTA upgrade",
+    "content": "Support",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322H06.png"
+  },
+  {
+    "technical_ico": "Button",
+    "content": "Volume +, Volume -, Power on/off, Repeat broadcast",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532304C.png"
+  },
+  {
+    "technical_ico": "Working temperature",
+    "content": "-10℃～60℃",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A2215a.png"
+  },
+  {
+    "technical_ico": "Size",
+    "content": "102.5*103.7*103.9mm",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153234442.png"
+  },
+  {
+    "technical_ico": "LOGO",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240518/1-24051Q51H4J7.png"
+  },
+  {
+    "technical_ico": "Panel",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153245607.png"
+  },
+  {
+    "technical_ico": "Packaging",
+    "content": "Default kraft paper or white carton/can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153231U1.png"
+  },{
+    "technical_ico": "Certificate",
+    "content": "Product Quality Certificate/Relevant Certifications You Need",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153229439.png"
+  }
+  ,{
+    "technical_ico": "Optional",
+    "content": "Network mode, RAM, ROM",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323O27.png"
+  },
+  {
+    "technical_ico": "Customization",
+    "content": "Battery, language, LOGO, panel, packaging",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532261T.png"
+  }
+]
+
+    },
+    {
+      "id": 104,
+      "name": "MD711",
+      "category_id": 2,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240528/1-24052PH555533.png",
+      "features": [
+        "Desk card + speaker design, can be separated or combined",
+        "Support 4G/2G/WIFI different network combination configuration optional",
+        "Network Smart Switching",
+        "Low latency of transaction information",
+        "Back LCD digital screen display (optional)",
+        "3W loudspeaker Real-time voice broadcast(volume adjustable)",
+        "Low-power devices have built-in batteries for worry-free use",
+        "Low battery warning function",
+        "Audio content sampling rates: 8kHz to 48kHz"
+      ],
+      "description": "MD711 is a smart voice cloud speaker for WIFI, 2G, and 4G network communication. With features like speakers and an optional digital display, it serves as a versatile payment terminal suitable for QR code payment in catering, entertainment, department stores, supermarkets, and financial industries. Widely applicable to QR code payment solutions, contactless payment solutions, and new payment methods.",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160T24a.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Static QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A235L3.png",
+        "content":"LCD digital screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": [
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160T24a.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160R5916.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160RA04.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160RM05.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160T0R4.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160U4G5.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160T2344.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509160UJ35.jpg"
+      ],
+      "technical_info": [
+  {
+    "technical_ico": "Screen",
+    "content": "Static QR code/custom panel",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532391K.png"
+  },
+  {
+    "technical_ico": "Network",
+    "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153243343.png"
+  },
+  {
+    "technical_ico": "Chip",
+    "content": "ASR/MTK",
+ "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532444H.png"   
+  },
+  {
+    "technical_ico": "RAM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324UN.png"
+  },
+  {
+    "technical_ico": "ROM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153235A5.png"
+  },
+  {
+    "technical_ico": "Language",
+    "content": "The sample defaults to English/no restrictions on any country, the language can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324H34.png"
+  },
+  {
+    "technical_ico": "Back screen",
+    "content": "Back LCD digital screen display (optional)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153249635.png"
+  },
+  {
+    "technical_ico": "Battery",
+    "content": "3.7V/2000mAh Li-Polymer battery (can be customized)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323B21.png"
+  },
+  {
+    "technical_ico": "Speaker",
+    "content": "4Ω/3W HD speaker",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153246494.png"
+  },
+  {
+    "technical_ico": "Interface",
+    "content": "Type-C 5V1A charging interface",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322U47.png"
+  },
+  {
+    "technical_ico": "SIM card",
+    "content": "Nano SIM card",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322Y27.png"
+  },
+  {
+    "technical_ico": "LED light",
+    "content": "Blue/Red/Green",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153249635.png"
+  },
+  {
+    "technical_ico": "OTA upgrade",
+    "content": "Support",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322H06.png"
+  },
+  {
+    "technical_ico": "Button",
+    "content": "Volume +, Volume -, Power on/off, Repeat broadcast",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532304C.png"
+  },
+  {
+    "technical_ico": "Working temperature",
+    "content": "-10℃～60℃",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A2215a.png"
+  },
+  {
+    "technical_ico": "Size",
+    "content": "Plus: 142.6*99.6*89mm, Small: 132*65*73.5mm",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153234442.png"
+  },
+  {
+    "technical_ico": "LOGO",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240518/1-24051Q51H4J7.png"
+  },
+  {
+    "technical_ico": "Panel",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153245607.png"
+  },
+  {
+    "technical_ico": "Packaging",
+    "content": "Default kraft paper or white carton/can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153231U1.png"
+  },
+  {
+    "technical_ico": "Certificate",
+    "content": "Product Quality Certificate/Relevant Certifications You Need",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153229439.png"
+  },
+  {
+    "technical_ico": "Optional",
+    "content": "Network mode, RAM, ROM, digital display",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323O27.png"
+  },
+  {
+    "technical_ico": "Customization",
+    "content": "Battery, language, LOGO, panel, packaging",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532261T.png"
+  }
+]
+
+    },
+    {
+      "id": 105,
+      "name": "MD716",
+      "category_id": 2,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-240509161144c8.jpg",
+      "features": [
+        "Static QR code/dynamic QR code (optional)",
+        "Support 4G/2G/WIFI different network combination configuration optional",
+        "Network Smart Switching",
+        "Low latency of transaction information",
+        "Back LCD digital screen display (optional)",
+        "3W loudspeaker Real-time voice broadcast(volume adjustable)",
+        "Low-power devices have built-in batteries for worry-free use",
+        "Low battery warning function",
+        "Audio content sampling rates: 8kHz to 48kHz"
+      ],
+      "description": "MD716 is an intelligent voice cloud speaker that displays QR codes in real time using 4G, 2G, or WIFI network communication. With features like a 2.4-inch LCD dynamic QR code display, speakers, and an optional digital display, it serves as a payment terminal for QR code payments in catering, entertainment, department stores, supermarkets, and financial industries. It supports QR code payment solutions, contactless payment methods, and new payment approaches.",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509161214N9.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Static / Dynamic"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A235L3.png",
+        "content":"LCD digital screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": [
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509161214N9.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-24050916122Q59.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509161144c8.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509161211445.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509161213938.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-240509161215J2.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-2405091612312b.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240509/1-2405091612131U.jpg"
+      ],
+      "technical_info": [
+  {
+    "technical_ico": "Screen",
+    "content": "Static QR code/custom panel/Optional 2.4-inch dynamic QR code",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532391K.png"
+  },
+  {
+    "technical_ico": "Network",
+    "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153243343.png"
+  },
+  {
+    "technical_ico": "Chip",
+    "content": "ASR Multi-mode IoT chip",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532444H.png"
+  },
+  {
+    "technical_ico": "RAM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324UN.png"
+  },
+  {
+    "technical_ico": "ROM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153235A5.png"
+  },
+  {
+    "technical_ico": "Language",
+    "content": "The sample defaults to English/no restrictions on any country, the language can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324H34.png"
+  },
+  {
+    "technical_ico": "Back screen",
+    "content": "Back LCD digital screen display (optional)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153242b1.png"
+  },
+  {
+    "technical_ico": "Battery",
+    "content": "3.7V/2000mAh Li-Polymer battery (can be customized)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323B21.png"
+  },
+  {
+    "technical_ico": "Speaker",
+    "content": "4Ω/3W HD speaker",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153246494.png"
+  },
+  {
+    "technical_ico": "Interface",
+    "content": "Type-C 5V1A charging interface",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322U47.png"
+  },
+  {
+    "technical_ico": "SIM card",
+    "content": "Nano SIM card",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322Y27.png"
+  },
+  {
+    "technical_ico": "LED light",
+    "content": "Blue/Red/Green",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153249635.png"
+  },
+  {
+    "technical_ico": "OTA upgrade",
+    "content": "Support",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322H06.png"
+  },
+  {
+    "technical_ico": "Button",
+    "content": "Volume +, Volume -, Power on/off, Repeat broadcast",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532304C.png"
+  },
+  {
+    "technical_ico": "Working temperature",
+    "content": "-10℃～60℃",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A2215a.png"
+  },
+  {
+    "technical_ico": "Size",
+    "content": "161.6*121.3*102.9mm",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153234442.png"
+  },
+  {
+    "technical_ico": "LOGO",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240518/1-24051Q51H4J7.png"
+  },
+  {
+    "technical_ico": "Panel",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153245607.png"
+  },
+  {
+    "technical_ico": "Packaging",
+    "content": "Default kraft paper or white carton/can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153231U1.png"
+  },
+  {
+    "technical_ico": "Certificate",
+    "content": "Product Quality Certificate/Relevant Certifications You Need",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153229439.png"
+  },
+  {
+    "technical_ico": "Optional",
+    "content": "Screen, Network mode, RAM, ROM, digital display",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323O27.png"
+  },
+  {
+    "technical_ico": "Customization",
+    "content": "Battery, language, LOGO, panel, packaging",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532261T.png"
+  }
+]
+
+    },
+    {
+      "id": 106,
+      "name": "MD760A",
+      "category_id": 2,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-240509161645F5.jpg",
+      "features": [],
+      "description": "",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509161H0N0.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Static / Dynamic"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A235L3.png",
+        "content":"LCD digital screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615310O05.png",
+        "content":"NFC card reader (customization)"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-240509161H0N0.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161H3152.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161645F7.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161645F5.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161H0928.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161646430.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916164B23.jpg"],
+      "technical_info": [
+  {
+    "technical_ico": "Screen",
+    "content": "Static QR code/custom panel/Optional 2.4-inch dynamic QR code",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532391K.png"
+  },
+  {
+    "technical_ico": "Network",
+    "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153243343.png"
+  },
+  {
+    "technical_ico": "Chip",
+    "content": "ASR Multi-mode IoT chip",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532444H.png"
+  },
+  {
+    "technical_ico": "RAM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324UN.png"
+  },
+  {
+    "technical_ico": "ROM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153235A5.png"
+  },
+  {
+    "technical_ico": "Language",
+    "content": "The sample defaults to English/no restrictions on any country, the language can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324H34.png"
+  },
+  {
+    "technical_ico": "Back screen",
+    "content": "Back LCD digital screen display (optional)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153242b1.png"
+  },
+  {
+    "technical_ico": "NFC",
+    "content": "NFC card reader (customization)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322B36.png"
+  },
+  {
+    "technical_ico": "Keyboard",
+    "content": "External keyboard (customization)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323S95.png"
+  },
+  {
+    "technical_ico": "Battery",
+    "content": "3.7V/2000mAh Li-Polymer battery (can be customized)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323B21.png"
+  },
+  {
+    "technical_ico": "Speaker",
+    "content": "4Ω/3W HD speaker",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153246494.png"
+  },
+  {
+    "technical_ico": "Interface",
+    "content": "Type-C 5V1A charging interface",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322U47.png"
+  },
+  {
+    "technical_ico": "SIM card",
+    "content": "Nano SIM card",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322Y27.png"
+  },
+  {
+    "technical_ico": "LED light",
+    "content": "Blue/Red/Green",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153249635.png"
+  },
+  {
+    "technical_ico": "OTA upgrade",
+    "content": "Support",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322H06.png"
+  },
+  {
+    "technical_ico": "Button",
+    "content": "Volume +, Volume -, Power on/off, Repeat broadcast",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532304C.png"
+  },
+  {
+    "technical_ico": "Working temperature",
+    "content": "-10℃～60℃",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A2215a.png"
+  },
+  {
+    "technical_ico": "Size",
+    "content": "142.6*99.6*89mm",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153234442.png"
+  },
+  {
+    "technical_ico": "LOGO",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240518/1-24051Q51H4J7.png"
+  },
+  {
+    "technical_ico": "Panel",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153245607.png"
+  },
+  {
+    "technical_ico": "Packaging",
+    "content": "Default kraft paper or white carton/can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153231U1.png"
+  },
+  {
+    "technical_ico": "Certificate",
+    "content": "Product Quality Certificate/Relevant Certifications You Need",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153229439.png"
+  },
+  {
+    "technical_ico": "Optional",
+    "content": "Screen, Network mode, RAM, ROM, NFC card reader, Keyboard, digital display",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323O27.png"
+  },
+  {
+    "technical_ico": "Customization",
+    "content": "Battery, language, LOGO, panel, packaging",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532261T.png"
+  }
+]
+
+    },
+    {
+      "id": 107,
+      "name": "MD760C",
+      "category_id": 2,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-240509161UT64.jpg",
+      "features": [],
+      "description": "",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509161912914.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Static / Dynamic"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A235L3.png",
+        "content":"LCD digital screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615310O05.png",
+        "content":"NFC card reader (customization)"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-240509161912914.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161914H4.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161645F7.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161UT64.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161U9256.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161Z1117.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161Z3Z2.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916191WX.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161Z25E.jpg"],
+      "technical_info": [
+  {
+    "technical_ico": "Screen",
+    "content": "Static QR code/custom panel/Optional 2.4-inch dynamic QR code",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532391K.png"
+  },
+  {
+    "technical_ico": "Network",
+    "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153243343.png"
+  },
+  {
+    "technical_ico": "Chip",
+    "content": "ASR Multi-mode IoT chip",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532444H.png"
+  },
+  {
+    "technical_ico": "RAM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324UN.png"
+  },
+  {
+    "technical_ico": "ROM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153235A5.png"
+  },
+  {
+    "technical_ico": "Language",
+    "content": "The sample defaults to English/no restrictions on any country, the language can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324H34.png"
+  },
+  {
+    "technical_ico": "Back screen",
+    "content": "Back LCD digital screen display (optional)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153242b1.png"
+  },
+  {
+    "technical_ico": "NFC",
+    "content": "NFC card reader (customization)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322B36.png"
+  },
+  {
+    "technical_ico": "Keyboard",
+    "content": "External keyboard (customization)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323S95.png"
+  },
+  {
+    "technical_ico": "Battery",
+    "content": "3.7V/2000mAh Li-Polymer battery (can be customized)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323B21.png"
+  },
+  {
+    "technical_ico": "Speaker",
+    "content": "4Ω/3W HD speaker",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153246494.png"
+  },
+  {
+    "technical_ico": "Interface",
+    "content": "Type-C 5V1A charging interface",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322U47.png"
+  },
+  {
+    "technical_ico": "SIM card",
+    "content": "Nano SIM card",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322Y27.png"
+  },
+  {
+    "technical_ico": "LED light",
+    "content": "Blue/Red/Green",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153249635.png"
+  },
+  {
+    "technical_ico": "OTA upgrade",
+    "content": "Support",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322H06.png"
+  },
+  {
+    "technical_ico": "Button",
+    "content": "Volume +, Volume -, Power on/off, Repeat broadcast",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532304C.png"
+  },
+  {
+    "technical_ico": "Working temperature",
+    "content": "-10℃～60℃",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A2215a.png"
+  },
+  {
+    "technical_ico": "Size",
+    "content": "142.6*99.6*89mm",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153234442.png"
+  },
+  {
+    "technical_ico": "LOGO",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240518/1-24051Q51H4J7.png"
+  },
+  {
+    "technical_ico": "Panel",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153245607.png"
+  },
+  {
+    "technical_ico": "Packaging",
+    "content": "Default kraft paper or white carton/can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153231U1.png"
+  },
+  {
+    "technical_ico": "Certificate",
+    "content": "Product Quality Certificate/Relevant Certifications You Need",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153229439.png"
+  },
+  {
+    "technical_ico": "Optional",
+    "content": "Screen, Network mode, RAM, ROM, NFC card reader, Keyboard, digital display",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323O27.png"
+  },
+  {
+    "technical_ico": "Customization",
+    "content": "Battery, language, LOGO, panel, packaging",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532261T.png"
+  }
+]
+
+    },
+    {
+      "id": 108,
+      "name": "Y50",
+      "category_id": 2,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-240509162313932.jpg",
+      "features": [],
+      "description": "",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-24050916231O58.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Static / Dynamic"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153125428.png",
+        "content":"Status light"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-24050916231O58.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162313932.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162314T2.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916233D02.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162335527.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916233TG.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162315463.jpg"],
+    "technical_info": [
+  {
+    "technical_ico": "Screen",
+    "content": "Static QR code/custom panel/Optional 2.4-inch dynamic QR code",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532391K.png"
+  },
+  {
+    "technical_ico": "Network",
+    "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153243343.png"
+  },
+  {
+    "technical_ico": "Chip",
+    "content": "ASR Multi-mode IoT chip",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532444H.png"
+  },
+  {
+    "technical_ico": "RAM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324UN.png"
+  },
+  {
+    "technical_ico": "ROM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153235A5.png"
+  },
+  {
+    "technical_ico": "Language",
+    "content": "The sample defaults to English/no restrictions on any country, the language can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324H34.png"
+  },
+  {
+    "technical_ico": "Battery",
+    "content": "3.7V/2000mAh Li-Polymer battery (can be customized)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323B21.png"
+  },
+  {
+    "technical_ico": "Speaker",
+    "content": "4Ω/3W HD speaker",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153246494.png"
+  },
+  {
+    "technical_ico": "Interface",
+    "content": "Type-C 5V1A charging interface",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322U47.png"
+  },
+  {
+    "technical_ico": "SIM card",
+    "content": "Nano SIM card",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322Y27.png"
+  },
+  {
+    "technical_ico": "LED light",
+    "content": "Blue/Red/Green",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153249635.png"
+  },
+  {
+    "technical_ico": "OTA upgrade",
+    "content": "Support",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322H06.png"
+  },
+  {
+    "technical_ico": "Button",
+    "content": "Volume +, Volume -, Power on/off, Repeat broadcast",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532304C.png"
+  },
+  {
+    "technical_ico": "Working temperature",
+    "content": "-10℃～60℃",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A2215a.png"
+  },
+  {
+    "technical_ico": "Size",
+    "content": "140*66*44mm",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153234442.png"
+  },
+  {
+    "technical_ico": "LOGO",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240518/1-24051Q51H4J7.png"
+  },
+  {
+    "technical_ico": "Panel",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153245607.png"
+  },
+  {
+    "technical_ico": "Packaging",
+    "content": "Default kraft paper or white carton/can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153231U1.png"
+  },
+  {
+    "technical_ico": "Certificate",
+    "content": "Product Quality Certificate/Relevant Certifications You Need",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153229439.png"
+  },
+  {
+    "technical_ico": "Optional",
+    "content": "Screen, Network mode, RAM, ROM, digital display",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323O27.png"
+  },
+  {
+    "technical_ico": "Customization",
+    "content": "Battery, language, LOGO, panel, packaging",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532261T.png"
+  }
+]
+
+    },
+    {
+      "id": 109,
+      "name": "Y50A",
+      "category_id": 2,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-240509162406148.jpg",
+      "features": [],
+      "description": "",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509162406148.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Static QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153125428.png",
+        "content":"Status light"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": [],
+      "technical_info": [
+  {
+    "technical_ico": "Screen",
+    "content": "Static QR code/custom panel",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532391K.png"
+  },
+  {
+    "technical_ico": "Network",
+    "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153243343.png"
+  },
+  {
+    "technical_ico": "Chip",
+    "content": "ASR Multi-mode IoT chip",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532444H.png"
+  },
+  {
+    "technical_ico": "RAM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324UN.png"
+  },
+  {
+    "technical_ico": "ROM",
+    "content": "4MB (default)/8MB/16MB",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153235A5.png"
+  },
+  {
+    "technical_ico": "Language",
+    "content": "The sample defaults to English/no restrictions on any country, the language can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324H34.png"
+  },
+  {
+    "technical_ico": "Battery",
+    "content": "3.7V/2000mAh Li-Polymer battery (can be customized)",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323B21.png"
+  },
+  {
+    "technical_ico": "Speaker",
+    "content": "4Ω/3W HD speaker",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153246494.png"
+  },
+  {
+    "technical_ico": "Interface",
+    "content": "Type-C 5V1A charging interface",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322U47.png"
+  },
+  {
+    "technical_ico": "SIM card",
+    "content": "Nano SIM card",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322Y27.png"
+  },
+  {
+    "technical_ico": "LED light",
+    "content": "Blue/Red/Green",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153249635.png"
+  },
+  {
+    "technical_ico": "OTA upgrade",
+    "content": "Support",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322H06.png"
+  },
+  {
+    "technical_ico": "Button",
+    "content": "Volume +, Volume -, Power on/off, Repeat broadcast",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532304C.png"
+  },
+  {
+    "technical_ico": "Working temperature",
+    "content": "-10℃～60℃",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A2215a.png"
+  },
+  {
+    "technical_ico": "Size",
+    "content": "NA",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153234442.png"
+  },
+  {
+    "technical_ico": "LOGO",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240518/1-24051Q51H4J7.png"
+  },
+  {
+    "technical_ico": "Panel",
+    "content": "Default English neutral/customizable",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153245607.png"
+  },
+  {
+    "technical_ico": "Packaging",
+    "content": "Default kraft paper or white carton/can be customized",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153231U1.png"
+  },
+  {
+    "technical_ico": "Certificate",
+    "content": "Product Quality Certificate/Relevant Certifications You Need",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153229439.png"
+  },
+  {
+    "technical_ico": "Optional",
+    "content": "Screen, Network mode, RAM, ROM, digital display",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323O27.png"
+  },
+  {
+    "technical_ico": "Customization",
+    "content": "Battery, language, LOGO, panel, packaging",
+    "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532261T.png"
+  }
+]
+
+    },
+    {
+      "id": 110,
+      "name": "Y30",
+      "category_id": 2,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240528/1-24052PH63Y50.png",
+      "features": [],
+      "description": "",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-24050916223T30.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Static QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153125428.png",
+        "content":"Status light"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240605/1-2406051P643139.png",
+        "content":"Portable lightweight"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-24050916223T30.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916222Mb.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162240561.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162230c4.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162230K0.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916222N34.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916222R29.jpg"],
+      "technical_info": [
+        {
+          "technical_ico": "Screen",
+          "content": "Static QR code/custom panel",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532391K.png"
+        },
+        {
+          "technical_ico": "Network",
+          "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153243343.png"
+        },
+        {
+          "technical_ico": "Chip",
+          "content": "ASR Multi-mode IoT chip",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532444H.png"
+        },
+        {
+          "technical_ico": "RAM",
+          "content": "4MB (default)/8MB/16MB",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324UN.png"
+        },
+        {
+          "technical_ico": "ROM",
+          "content": "4MB (default)/8MB/16MB",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153235A5.png"
+        },
+        {
+          "technical_ico": "Language",
+          "content": "The sample defaults to English/no restrictions on any country, the language can be customized",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324H34.png"
+        },
+        {
+          "technical_ico": "Battery",
+          "content": "1250mAh Li-Polymer battery",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323B21.png"
+        },
+        {
+          "technical_ico": "Speaker",
+          "content": "2W HD speaker",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153246494.png"
+        },
+        {
+          "technical_ico": "Interface",
+          "content": "Type-C 5V1A charging interface",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322U47.png"
+        },
+        {
+          "technical_ico": "SIM card",
+          "content": "Nano SIM card",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322Y27.png"
+        },
+        {
+          "technical_ico": "LED light",
+          "content": "Blue/Red/Green",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153249635.png"
+        },
+        {
+          "technical_ico": "OTA upgrade",
+          "content": "Support",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322H06.png"
+        },
+        {
+          "technical_ico": "Button",
+          "content": "Volume +, Volume -, Power on/off, Repeat broadcast",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532304C.png"
+        },
+        {
+          "technical_ico": "Working temperature",
+          "content": "-10℃～60℃",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A2215a.png"
+        },
+        {
+          "technical_ico": "Size",
+          "content": "101*56.5*8.8mm",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153234442.png"
+        },
+        {
+          "technical_ico": "LOGO",
+          "content": "Default English neutral/customizable",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240518/1-24051Q51H4J7.png"
+        },
+        {
+          "technical_ico": "Panel",
+          "content": "Default English neutral/customizable",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153245607.png"
+        },
+        {
+          "technical_ico": "Packaging",
+          "content": "Default kraft paper or white carton/can be customized",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153231U1.png"
+        },
+        {
+          "technical_ico": "Certificate",
+          "content": "Product Quality Certificate/Relevant Certifications You Need",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153229439.png"
+        },
+        {
+          "technical_ico": "Optional",
+          "content": "Screen, Network mode, RAM, ROM, digital display",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323O27.png"
+        },
+        {
+          "technical_ico": "Customization",
+          "content": "Battery, language, LOGO, panel, packaging",
+          "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532261T.png"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Y90B",
+      "category_id": 3,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6152PQ49.jpg",
+      "features": [
+        "Support 4G + WIFI",
+        "Chipset ROM+RAM: 8MB+8MB/4MB+4MB (option)",
+        "2W HD speaker",
+        "2.4-inch TFT screen, which can generate a QR code for payment",
+        "Weight : 60g",
+        "Dimension is 102*60*11m",
+        "Wearing method : Halter or Jacket",
+        "Support 4 keypad",
+        "Real-time voice broadcast",
+        "1250mAh Li-Polymer battery",
+        "Charging interface is Type-C input: 5V/1A",
+        "Support Nano SIM card",
+        "Support OTA upgrade",
+        "Audio content sampling rates: 8kHz to 48kHz",
+        "Customized logo, color, etc"
+      ],
+      "description": "Y90B is designed for portable payment terminal. Network support 4G/WIFI payment collection. It integrates a 2.4-inch display screen. It can effectively solve the problems of slow ordering and untimely ordering.",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240817/1-240QG63P9604.png",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Dynamic QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": [
+        "http://www.hemiiot.com/uploads/allimg/20240817/1-240QG63P9604.png",
+        "http://www.hemiiot.com/uploads/allimg/20240817/1-240QG63P5A7.png",
+        "http://www.hemiiot.com/uploads/allimg/20240817/1-240QG63P6491.png",
+        "http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6152PQ49.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6152S4916.jpg",
+        "http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6152QJX.jpg"
+      ],"technical_info": [
+    {
+      "technical_ico": "Screen",
+      "content": "2.4-inch dynamic QR code Screen"
+    },
+    {
+      "technical_ico": "Network",
+      "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only"
+    },
+    {
+      "technical_ico": "Chip",
+      "content": "ASR Multi-mode IoT chip"
+    },
+    {
+      "technical_ico": "RAM",
+      "content": "4MB (default)/8MB/16MB"
+    },
+    {
+      "technical_ico": "ROM",
+      "content": "4MB (default)/8MB/16MB"
+    },
+    {
+      "technical_ico": "Language",
+      "content": "The sample defaults to English/no restrictions on any country, the language can be customized"
+    },
+    {
+      "technical_ico": "Battery",
+      "content": "3.7V/2000mAh Li-Polymer battery (can be customized)"
+    },
+    {
+      "technical_ico": "Speaker",
+      "content": "4Ω/3W HD speaker"
+    },
+    {
+      "technical_ico": "Interface",
+      "content": "Type-C 5V1A charging interface"
+    },
+    {
+      "technical_ico": "SIM card",
+      "content": "Nano SIM card"
+    },
+    {
+      "technical_ico": "LED light",
+      "content": "Blue/Red/Green"
+    },
+    {
+      "technical_ico": "OTA upgrade",
+      "content": "Support"
+    },
+    {
+      "technical_ico": "Button",
+      "content": "Volume +, Volume -, Power on/off, Repeat broadcast"
+    },
+    {
+      "technical_ico": "Working temperature",
+      "content": "-10℃～60℃"
+    },
+    {
+      "technical_ico": "Size",
+      "content": "102.5*103.7*103.9mm"
+    },
+    {
+      "technical_ico": "LOGO",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Panel",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Packaging",
+      "content": "Default kraft paper or white carton/can be customized"
+    },
+    {
+      "technical_ico": "Certificate",
+      "content": "Product Quality Certificate/Relevant Certifications You Need"
+    },
+    {
+      "technical_ico": "Optional",
+      "content": "Network mode, RAM, ROM"
+    },
+    {
+      "technical_ico": "Customization",
+      "content": "Battery, language, LOGO, panel, packaging"
+    }
+  ]
+     
+    },
+    {
+      "id": 112,
+      "name": "MD712",
+      "category_id": 3,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-240509160935555.jpg",
+      "features": [],
+      "description": "",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-2405091609594H.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Dynamic QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-2405091609594H.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161001627.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509160935a3.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916093U48.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161000420.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161009125.jpg"],
+      "technical_info": [
+        {
+          "technical_ico": "Screen",
+          "content": "2.4-inch dynamic QR code Screen"
+        },
+        {
+          "technical_ico": "Network",
+          "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only"
+        },
+        {
+          "technical_ico": "Chip",
+          "content": "ASR Multi-mode IoT chip"
+        },
+        {
+          "technical_ico": "RAM",
+          "content": "4MB (default)/8MB/16MB"
+        },
+        {
+          "technical_ico": "ROM",
+          "content": "4MB (default)/8MB/16MB"
+        },
+        {
+          "technical_ico": "Language",
+          "content": "The sample defaults to English/no restrictions on any country, the language can be customized"
+        },
+        {
+          "technical_ico": "Battery",
+          "content": "3.7V/2000mAh Li-Polymer battery (can be customized)"
+        },
+        {
+          "technical_ico": "Speaker",
+          "content": "4Ω/3W HD speaker"
+        },
+        {
+          "technical_ico": "Interface",
+          "content": "Type-C 5V1A charging interface"
+        },
+        {
+          "technical_ico": "SIM card",
+          "content": "Nano SIM card"
+        },
+        {
+          "technical_ico": "LED light",
+          "content": "Blue/Red/Green"
+        },
+        {
+          "technical_ico": "OTA upgrade",
+          "content": "Support"
+        },
+        {
+          "technical_ico": "Button",
+          "content": "Volume +, Volume -, Power on/off, Repeat broadcast"
+        },
+        {
+          "technical_ico": "Working temperature",
+          "content": "-10℃～60℃"
+        },
+        {
+          "technical_ico": "Size",
+          "content": "102.5*103.7*103.9mm"
+        },
+        {
+          "technical_ico": "LOGO",
+          "content": "Default English neutral/customizable"
+        },
+        {
+          "technical_ico": "Panel",
+          "content": "Default English neutral/customizable"
+        },
+        {
+          "technical_ico": "Packaging",
+          "content": "Default kraft paper or white carton/can be customized"
+        },
+        {
+          "technical_ico": "Certificate",
+          "content": "Product Quality Certificate/Relevant Certifications You Need"
+        },
+        {
+          "technical_ico": "Optional",
+          "content": "Network mode, RAM, ROM"
+        },
+        {
+          "technical_ico": "Customization",
+          "content": "Battery, language, LOGO, panel, packaging"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "name": "MD760B",
+      "category_id": 3,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-240509161JL03.jpg",
+      "features": [],
+      "description": "",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509161K43Z.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Dynamic QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A235L3.png",
+        "content":"LCD Digital Screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615310O05.png",
+        "content":"NFC Card Reader (Customization)"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-240509161K43Z.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161K1332.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161K4128.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161RL42.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161R2542.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161R1392.jpg"],
+  "technical_info": [
+    {
+      "technical_ico": "Screen",
+      "content": "2.4-inch dynamic QR code/Optional Static QR code/custom panel"
+    },
+    {
+      "technical_ico": "Network",
+      "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only"
+    },
+    {
+      "technical_ico": "Chip",
+      "content": "ASR Multi-mode IoT chip"
+    },
+    {
+      "technical_ico": "RAM",
+      "content": "4MB (default)/8MB/16MB"
+    },
+    {
+      "technical_ico": "ROM",
+      "content": "4MB (default)/8MB/16MB"
+    },
+    {
+      "technical_ico": "Language",
+      "content": "The sample defaults to English/no restrictions on any country, the language can be customized"
+    },
+    {
+      "technical_ico": "Back screen",
+      "content": "Back LCD digital screen display (optional)"
+    },
+    {
+      "technical_ico": "NFC",
+      "content": "NFC card reader (customization)"
+    },
+    {
+      "technical_ico": "Keyboard",
+      "content": "External keyboard (customization)"
+    },
+    {
+      "technical_ico": "Battery",
+      "content": "3.7V/2000mAh Li-Polymer battery (can be customized)"
+    },
+    {
+      "technical_ico": "Speaker",
+      "content": "4Ω/3W HD speaker"
+    },
+    {
+      "technical_ico": "Interface",
+      "content": "Type-C 5V1A charging interface"
+    },
+    {
+      "technical_ico": "SIM card",
+      "content": "Nano SIM card"
+    },
+    {
+      "technical_ico": "LED light",
+      "content": "Blue/Red/Green"
+    },
+    {
+      "technical_ico": "OTA upgrade",
+      "content": "Support"
+    },
+    {
+      "technical_ico": "Button",
+      "content": "Volume +, Volume -, Power on/off, Repeat broadcast"
+    },
+    {
+      "technical_ico": "Working temperature",
+      "content": "-10℃～60℃"
+    },
+    {
+      "technical_ico": "Size",
+      "content": "142.6*99.6*89mm"
+    },
+    {
+      "technical_ico": "LOGO",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Panel",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Packaging",
+      "content": "Default kraft paper or white carton/can be customized"
+    },
+    {
+      "technical_ico": "Certificate",
+      "content": "Product Quality Certificate/Relevant Certifications You Need"
+    },
+    {
+      "technical_ico": "Optional",
+      "content": "Screen, Network mode, RAM, ROM, NFC card reader, Keyboard, digital display"
+    },
+    {
+      "technical_ico": "Customization",
+      "content": "Battery, language, LOGO, panel, packaging"
+    }
+  ]
+    },
+    {
+      "id": 114,
+      "name": "MD760D",
+      "category_id": 3,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240528/1-24052PH612K2.png",
+      "features": [],
+      "description": "",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240528/1-24052PH612K2.png",
+      "function":[],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240528/1-24052PH612K2.png"],
+      "technical_info":[]
+    },
+    {
+      "id": 115,
+      "name": "MD760E",
+      "category_id": 3,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-2405091620431H.jpg",
+      "features": [],
+      "description": "",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509162100918.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Dynamic / Static"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A235L3.png",
+        "content":"LCD Digital Screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615310O05.png",
+        "content":"NFC Card Reader (Customization)"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-240509162100918.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-2405091621013W.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162112920.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-2405091621133O.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-2405091620431H.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-2405091620451T.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916204C55.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916204E31.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162100M5.jpg"],
+      "technical_info": [
+        {
+          "technical_ico": "Screen",
+          "content": "2.4-inch dynamic QR code/Optional Static QR code/custom panel"
+        },
+        {
+          "technical_ico": "Network",
+          "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only"
+        },
+        {
+          "technical_ico": "Chip",
+          "content": "ASR Multi-mode IoT chip"
+        },
+        {
+          "technical_ico": "RAM",
+          "content": "4MB (default)/8MB/16MB"
+        },
+        {
+          "technical_ico": "ROM",
+          "content": "4MB (default)/8MB/16MB"
+        },
+        {
+          "technical_ico": "Language",
+          "content": "The sample defaults to English/no restrictions on any country, the language can be customized"
+        },
+        {
+          "technical_ico": "Back screen",
+          "content": "Back LCD digital screen display (optional)"
+        },
+        {
+          "technical_ico": "NFC",
+          "content": "NFC card reader (customization)"
+        },
+        {
+          "technical_ico": "Keyboard",
+          "content": "External keyboard"
+        },
+        {
+          "technical_ico": "Speaker",
+          "content": "4Ω/3W HD speaker"
+        },
+        {
+          "technical_ico": "Battery",
+          "content": "3.7V/2000mAh Li-Polymer battery (can be customized)"
+        },
+        {
+          "technical_ico": "Interface",
+          "content": "Type-C 5V1A charging interface"
+        },
+        {
+          "technical_ico": "SIM card",
+          "content": "Nano SIM card"
+        },
+        {
+          "technical_ico": "LED light",
+          "content": "Blue/Red/Green"
+        },
+        {
+          "technical_ico": "OTA upgrade",
+          "content": "Support"
+        },
+        {
+          "technical_ico": "Button",
+          "content": "Volume +, Volume -, Power on/off, Repeat broadcast"
+        },
+        {
+          "technical_ico": "Working temperature",
+          "content": "-10℃～60℃"
+        },
+        {
+          "technical_ico": "Size",
+          "content": "142.6*99.6*89mm"
+        },
+        {
+          "technical_ico": "LOGO",
+          "content": "Default English neutral/customizable"
+        },
+        {
+          "technical_ico": "Panel",
+          "content": "Default English neutral/customizable"
+        },
+        {
+          "technical_ico": "Packaging",
+          "content": "Default kraft paper or white carton/can be customized"
+        },
+        {
+          "technical_ico": "Certificate",
+          "content": "Product Quality Certificate/Relevant Certifications You Need"
+        },
+        {
+          "technical_ico": "Optional",
+          "content": "Screen, Network mode, RAM, ROM, NFC card reader, Keyboard, digital display"
+        },
+        {
+          "technical_ico": "Customization",
+          "content": "Battery, language, LOGO, panel, packaging"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Y50B",
+      "category_id": 3,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-2405091624494R.jpg",
+      "features": [],
+      "description": "",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509162450224.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Dynamic / Static"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153125428.png",
+        "content":"Status Light"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-240509162450224.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916250SO.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-2405091625052O.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-2405091624494R.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-2405091624494A.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162514R9.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162504643.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162450X4.jpg"],
+      "technical_info": [
+        {
+          "technical_ico": "Screen",
+          "content": "2.4-inch dynamic QR code/Optional Static QR code/custom panel"
+        },
+        {
+          "technical_ico": "Network",
+          "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only"
+        },
+        {
+          "technical_ico": "Chip",
+          "content": "ASR Multi-mode IoT chip"
+        },
+        {
+          "technical_ico": "RAM",
+          "content": "4MB (default)/8MB/16MB"
+        },
+        {
+          "technical_ico": "ROM",
+          "content": "4MB (default)/8MB/16MB"
+        },
+        {
+          "technical_ico": "Language",
+          "content": "The sample defaults to English/no restrictions on any country, the language can be customized"
+        },
+        {
+          "technical_ico": "Battery",
+          "content": "3.7V/2000mAh Li-Polymer battery (can be customized)"
+        },
+        {
+          "technical_ico": "Speaker",
+          "content": "4Ω/3W HD speaker"
+        },
+        {
+          "technical_ico": "Interface",
+          "content": "Type-C 5V1A charging interface"
+        },
+        {
+          "technical_ico": "SIM card",
+          "content": "Nano SIM card"
+        },
+        {
+          "technical_ico": "LED light",
+          "content": "Blue/Red/Green"
+        },
+        {
+          "technical_ico": "OTA upgrade",
+          "content": "Support"
+        },
+        {
+          "technical_ico": "Button",
+          "content": "Volume +, Volume -, Power on/off, Repeat broadcast"
+        },
+        {
+          "technical_ico": "Working temperature",
+          "content": "-10℃～60℃"
+        },
+        {
+          "technical_ico": "Size",
+          "content": "140*66*44mm"
+        },
+        {
+          "technical_ico": "LOGO",
+          "content": "Default English neutral/customizable"
+        },
+        {
+          "technical_ico": "Panel",
+          "content": "Default English neutral/customizable"
+        },
+        {
+          "technical_ico": "Packaging",
+          "content": "Default kraft paper or white carton/can be customized"
+        },
+        {
+          "technical_ico": "Certificate",
+          "content": "Product Quality Certificate/Relevant Certifications You Need"
+        },
+        {
+          "technical_ico": "Optional",
+          "content": "Screen, Network mode, RAM, ROM, digital display"
+        },
+        {
+          "technical_ico": "Customization",
+          "content": "Battery, language, LOGO, panel, packaging"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "MD716B",
+      "category_id": 3,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-240509161144c8.jpg",
+      "features": [],
+      "description": "",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509161144c8.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Dynamic / Static"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A235L3.png",
+        "content":"LCD Digital Screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": [],
+      "technical_info": [
+    {
+      "technical_ico": "Screen",
+      "content": "2.4-inch dynamic QR code/Optional Static QR code/custom panel"
+    },
+    {
+      "technical_ico": "Network",
+      "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only"
+    },
+    {
+      "technical_ico": "Chip",
+      "content": "ASR Multi-mode IoT chip"
+    },
+    {
+      "technical_ico": "RAM",
+      "content": "4MB (default)/8MB/16MB"
+    },
+    {
+      "technical_ico": "ROM",
+      "content": "4MB (default)/8MB/16MB"
+    },
+    {
+      "technical_ico": "Language",
+      "content": "The sample defaults to English/no restrictions on any country, the language can be customized"
+    },
+    {
+      "technical_ico": "Back screen",
+      "content": "Back LCD digital screen display (optional)"
+    },
+    {
+      "technical_ico": "Battery",
+      "content": "3.7V/2000mAh Li-Polymer battery (can be customized)"
+    },
+    {
+      "technical_ico": "Speaker",
+      "content": "4Ω/3W HD speaker"
+    },
+    {
+      "technical_ico": "Interface",
+      "content": "Type-C 5V1A charging interface"
+    },
+    {
+      "technical_ico": "SIM card",
+      "content": "Nano SIM card"
+    },
+    {
+      "technical_ico": "LED light",
+      "content": "Blue/Red/Green"
+    },
+    {
+      "technical_ico": "OTA upgrade",
+      "content": "Support"
+    },
+    {
+      "technical_ico": "Button",
+      "content": "Volume +, Volume -, Power on/off, Repeat broadcast"
+    },
+    {
+      "technical_ico": "Working temperature",
+      "content": "-10℃～60℃"
+    },
+    {
+      "technical_ico": "Size",
+      "content": "161.6*121.3*102.9mm"
+    },
+    {
+      "technical_ico": "LOGO",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Panel",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Packaging",
+      "content": "Default kraft paper or white carton/can be customized"
+    },
+    {
+      "technical_ico": "Certificate",
+      "content": "Product Quality Certificate/Relevant Certifications You Need"
+    },
+    {
+      "technical_ico": "Optional",
+      "content": "Screen, Network mode, RAM, ROM, digital display"
+    },
+    {
+      "technical_ico": "Customization",
+      "content": "Battery, language, LOGO, panel, packaging"
+    }
+  ]
+    },
+    {
+      "id": 118,
+      "name": "MD758",
+      "category_id": 4,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-240509161601441.jpg",
+      "features": [],
+      "description": "",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509161603227.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Static QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153125428.png",
+        "content":"Status Light"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-240509161603227.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-2405091616013b.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161602329.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161603937.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161612E3.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161613341.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161601441.jpg"],
+      "technical_info": [
+    {
+      "technical_ico": "Screen",
+      "content": "Static QR code/custom panel"
+    },
+    {
+      "technical_ico": "Network",
+      "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only"
+    },
+    {
+      "technical_ico": "Chip",
+      "content": "ASR Multi-mode IoT chip"
+    },
+    {
+      "technical_ico": "RAM",
+      "content": "4MB (default)/8MB/16MB"
+    },
+    {
+      "technical_ico": "ROM",
+      "content": "4MB (default)/8MB/16MB"
+    },
+    {
+      "technical_ico": "Language",
+      "content": "The sample defaults to English/no restrictions on any country, the language can be customized"
+    },
+    {
+      "technical_ico": "Battery",
+      "content": "3.7V/2000mAh Li-Polymer battery (can be customized)"
+    },
+    {
+      "technical_ico": "Speaker",
+      "content": "4Ω/3W HD speaker"
+    },
+    {
+      "technical_ico": "Interface",
+      "content": "Type-C 5V1A charging interface"
+    },
+    {
+      "technical_ico": "SIM card",
+      "content": "Nano SIM card"
+    },
+    {
+      "technical_ico": "LED light",
+      "content": "Blue/Red/Green"
+    },
+    {
+      "technical_ico": "OTA upgrade",
+      "content": "Support"
+    },
+    {
+      "technical_ico": "Button",
+      "content": "Volume +, Volume -, Power on/off, Repeat broadcast"
+    },
+    {
+      "technical_ico": "Working temperature",
+      "content": "-10℃～60℃"
+    },
+    {
+      "technical_ico": "Size",
+      "content": "75.6*75.6*83mm"
+    },
+    {
+      "technical_ico": "LOGO",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Panel",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Packaging",
+      "content": "Default kraft paper or white carton/can be customized"
+    },
+    {
+      "technical_ico": "Certificate",
+      "content": "Product Quality Certificate/Relevant Certifications You Need"
+    },
+    {
+      "technical_ico": "Optional",
+      "content": "Network mode, RAM, ROM"
+    },
+    {
+      "technical_ico": "Customization",
+      "content": "Battery, language, LOGO, panel, packaging"
+    }
+  ]
+    },
+    {
+      "id": 119,
+      "name": "MD720",
+      "category_id": 4,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-240509161401342.jpg",
+      "features": [],
+      "description": "",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509161404503.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Static QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"10W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153125428.png",
+        "content":"Status Light"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-240509161404503.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161401342.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161402I7.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161403400.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161412209.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-2405091614134M.jpg"],
+      "technical_info": [
+    {
+      "technical_ico": "Screen",
+      "content": "Static QR code/custom panel"
+    },
+    {
+      "technical_ico": "Network",
+      "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only"
+    },
+    {
+      "technical_ico": "Chip",
+      "content": "ASR Multi-mode IoT chip"
+    },
+    {
+      "technical_ico": "RAM",
+      "content": "4MB (default)/8MB/16MB"
+    },
+    {
+      "technical_ico": "ROM",
+      "content": "4MB (default)/8MB/16MB"
+    },
+    {
+      "technical_ico": "Language",
+      "content": "The sample defaults to English/no restrictions on any country, the language can be customized"
+    },
+    {
+      "technical_ico": "Battery",
+      "content": "2500mAh Li-Polymer battery (can be customized)"
+    },
+    {
+      "technical_ico": "Speaker",
+      "content": "10W HD speaker"
+    },
+    {
+      "technical_ico": "Interface",
+      "content": "Type-C 5V1A charging interface"
+    },
+    {
+      "technical_ico": "SIM card",
+      "content": "Nano SIM card"
+    },
+    {
+      "technical_ico": "LED light",
+      "content": "Blue/Red/Green"
+    },
+    {
+      "technical_ico": "OTA upgrade",
+      "content": "Support"
+    },
+    {
+      "technical_ico": "Button",
+      "content": "Volume +, Volume -, Power on/off, Repeat broadcast"
+    },
+    {
+      "technical_ico": "Working temperature",
+      "content": "-10℃～60℃"
+    },
+    {
+      "technical_ico": "Size",
+      "content": "140*120*84mm"
+    },
+    {
+      "technical_ico": "LOGO",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Panel",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Packaging",
+      "content": "Default kraft paper or white carton/can be customized"
+    },
+    {
+      "technical_ico": "Certificate",
+      "content": "Product Quality Certificate/Relevant Certifications You Need"
+    },
+    {
+      "technical_ico": "Optional",
+      "content": "Network mode, RAM, ROM"
+    },
+    {
+      "technical_ico": "Customization",
+      "content": "Battery, language, LOGO, panel, packaging"
+    }
+  ]
+    },
+    {
+      "id": 120,
+      "name": "MD702",
+      "category_id": 4,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-24050916061E19.jpg",
+      "features": [
+        "Support 4GCAT1/2G/WIFI different network combination configuration optional",
+        "3W loudspeaker",
+        "Low latency",
+        "Network Smart Switching",
+        "Real-time voice broadcast",
+        "1000mA battery",
+        "Lowbatterywarning",
+        "View applet management",
+        "Audio content sampling rates: 8kHz to 48kHz"
+      ],
+      "description": "MD702 is specially designed for shopping malls, stores, grocery farms, and other fields that require payment by scanning codes. A 4G CAT1/2G/WIFI intelligent voice broadcast payment collection terminal, with built-in battery, integrated 3W loudspeaker, real-time voice broadcast of the current collection amount. It can effectively solve the problems of slow collection, missed collection, wrong collection, and the replacement of the QR code for payment.",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-2405091606303I.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Static QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"3W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153125428.png",
+        "content":"Status Light"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-2405091606303I.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916061B61.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916061HQ.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916062b92.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916064I38.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509160631H7.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916061E19.jpg"],
+      "technical_info": [
+    {
+      "technical_ico": "Screen",
+      "content": "Static QR code/custom panel"
+    },
+    {
+      "technical_ico": "Network",
+      "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only"
+    },
+    {
+      "technical_ico": "Chip",
+      "content": "ASR Multi-mode IoT chip"
+    },
+    {
+      "technical_ico": "RAM",
+      "content": "4MB (default)/8MB/16MB"
+    },
+    {
+      "technical_ico": "ROM",
+      "content": "4MB (default)/8MB/16MB"
+    },
+    {
+      "technical_ico": "Language",
+      "content": "The sample defaults to English/no restrictions on any country, the language can be customized"
+    },
+    {
+      "technical_ico": "Battery",
+      "content": "1000mAh Li-Polymer battery"
+    },
+    {
+      "technical_ico": "Speaker",
+      "content": "4Ω/3W HD speaker"
+    },
+    {
+      "technical_ico": "Interface",
+      "content": "Type-C 5V1A charging interface"
+    },
+    {
+      "technical_ico": "SIM card",
+      "content": "Nano SIM card"
+    },
+    {
+      "technical_ico": "LED light",
+      "content": "Blue/Red/Green"
+    },
+    {
+      "technical_ico": "OTA upgrade",
+      "content": "Support"
+    },
+    {
+      "technical_ico": "Button",
+      "content": "Volume +, Volume -, Power on/off, Repeat broadcast"
+    },
+    {
+      "technical_ico": "Working temperature",
+      "content": "-10℃～60℃"
+    },
+    {
+      "technical_ico": "Size",
+      "content": "75.6*75.6*54mm"
+    },
+    {
+      "technical_ico": "LOGO",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Panel",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Packaging",
+      "content": "Default kraft paper or white carton/can be customized"
+    },
+    {
+      "technical_ico": "Certificate",
+      "content": "Product Quality Certificate/Relevant Certifications You Need"
+    },
+    {
+      "technical_ico": "Optional",
+      "content": "Network mode, RAM, ROM"
+    },
+    {
+      "technical_ico": "Customization",
+      "content": "Battery, language, LOGO, panel, packaging"
+    }
+  ]
+    },
+    {
+      "id": 121,
+      "name": "Y86",
+      "category_id": 5,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6140041404.png",
+      "features": [
+        "Support 4G + WIFI/4G(optional)",
+        "Memory is RAM 8MB+ ROM 8M",
+        "8 Digit amount 8 digit segment screen display",
+        "2.4-inch display screen, which can generate a QR code for payment",
+        "2W loud speaker",
+        "30W pixel camera",
+        "Support 19 keypad",
+        "Real-time voice broadcast",
+        "Support 1D&2D code scanning (optional)",
+        "White color (default) can be customized",
+        "2600mAh Li-Polymer battery",
+        "Charging interface: Type-C, charging, input: 5V/1A",
+        "Support Nano SIM card",
+        "Support OTA upgrade",
+        "Audio content sampling rates: 8kHz to 48kHz"
+      ],
+      "description": "Y86 is designed for portable payment terminal, support amount enter and scan to pay. Network support 4G/WIFI payment collection. It integrates a 2.4-inch display screen, segment code screen, and 30W pixel camera head to display and scan the current ordering and payment information in real time. It can effectively solve the problems of slow ordering and untimely ordering.",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6140041404.png",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153122B6.png",
+        "content":"2.4-inch High screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240607/1-24060G5050b47.png",
+        "content":"Scanner"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Dynamic QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A235L3.png",
+        "content":"LCD Digital Screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240607/1-24060G5101O46.png",
+        "content":"Keyboard"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"2W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6140041404.png","http://www.hemiiot.com/uploads/allimg/20240817/1-240QG61401458.png","http://www.hemiiot.com/uploads/allimg/20240817/1-240QG61402364.jpg","http://www.hemiiot.com/uploads/allimg/20240817/1-240QG6135A95.png","http://www.hemiiot.com/uploads/allimg/20240817/1-240QG6135RU.png","http://www.hemiiot.com/uploads/allimg/20240817/1-240QG613591V.png","http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6140K1235.jpg","http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6140P1137.jpg"],
+      "technical_info": [
+        {
+          "technical_ico": "Screen",
+          "content": "2.4-inch dynamic QR code"
+        },
+        {
+          "technical_ico": "Network",
+          "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only"
+        },
+        {
+          "technical_ico": "Chip",
+          "content": "IoT chip"
+        },
+        {
+          "technical_ico": "RAM",
+          "content": "8MB"
+        },
+        {
+          "technical_ico": "ROM",
+          "content": "8MB"
+        },
+        {
+          "technical_ico": "Screen",
+          "content": "Back LCD digital screen display"
+        },
+        {
+          "technical_ico": "Keyboard",
+          "content": "Keyboard"
+        },
+        {
+          "technical_ico": "Support code scanning",
+          "content": "1D&2D code"
+        },
+        {
+          "technical_ico": "Camera",
+          "content": "30W pixel"
+        },
+        {
+          "technical_ico": "Language",
+          "content": "The sample defaults to English/no restrictions on any country, the language can be customized"
+        },
+        {
+          "technical_ico": "Battery",
+          "content": "3.7V/2000mAh Li-Polymer battery (can be customized)"
+        },
+        {
+          "technical_ico": "Speaker",
+          "content": "2W HD speaker"
+        },
+        {
+          "technical_ico": "Interface",
+          "content": "Type-C 5V1A charging interface"
+        },
+        {
+          "technical_ico": "SIM card",
+          "content": "Nano SIM card"
+        },
+        {
+          "technical_ico": "LED light",
+          "content": "Blue/Red/Green"
+        },
+        {
+          "technical_ico": "OTA upgrade",
+          "content": "Support"
+        },
+        {
+          "technical_ico": "Working temperature",
+          "content": "-10℃～60℃"
+        },
+        {
+          "technical_ico": "Size",
+          "content": "NA"
+        },
+        {
+          "technical_ico": "LOGO",
+          "content": "Default English neutral/customizable"
+        },
+        {
+          "technical_ico": "Panel",
+          "content": "Default English neutral/customizable"
+        },
+        {
+          "technical_ico": "Packaging",
+          "content": "Default kraft paper or white carton/can be customized"
+        },
+        {
+          "technical_ico": "Certificate",
+          "content": "Product Quality Certificate/Relevant Certifications You Need"
+        },
+        {
+          "technical_ico": "Optional",
+          "content": "Network mode, RAM, ROM"
+        },
+        {
+          "technical_ico": "Customization",
+          "content": "Battery, language, LOGO, panel, packaging"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "name": "SC82",
+      "category_id": 5,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-240509162144N1.jpg",
+      "features": [
+        "Support 4G + WiFi network",
+        "Professional decoder",
+        "1W loudspeaker",
+        "Professional scanning camera",
+        "Fast broadcast",
+        "Built-in voice package, support OTA voice package expansion",
+        "The host off code screen displays the amount and payment status",
+        "Keyboard dot matrix screen, display amount, equipment settings, etc.",
+        "Nano SIM card, compatible with patch SIM card",
+        "Support terminal remote OTA upgrade",
+        "Audio content sampling rates: 8kHz to 48kHz"
+      ],
+      "description": "SC82E is a 4G + WIFI code scanning box specially launched for mobile payment in markets/stores/street shops. It has a built-in professional one-dimensional code and two-dimensional code reader, and is equipped with a professional standard digital keyboard to display the received amount and broadcast the current collection information. It can effectively improve the efficiency of cash collection.",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-24050916214N02.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240607/1-24060G5050b47.png",
+        "content":"Scanner"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A235L3.png",
+        "content":"LCD Digital Screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240607/1-24060G5101O46.png",
+        "content":"Keyboard"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615310V11.png",
+        "content":"USB Connection"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"2W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-24050916214N02.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-2405091621432X.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162144N1.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162145507.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916214C94.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916215E04.jpg"],
+      "technical_info": [
+    {
+      "technical_ico": "Network",
+      "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only"
+    },
+    {
+      "technical_ico": "Screen",
+      "content": "Back LCD digital screen display"
+    },
+    {
+      "technical_ico": "Keyboard",
+      "content": "Keyboard"
+    },
+    {
+      "technical_ico": "Support code scanning",
+      "content": "1D&2D code"
+    },
+    {
+      "technical_ico": "Camera",
+      "content": "30W pixel"
+    },
+    {
+      "technical_ico": "Language",
+      "content": "The sample defaults to English/no restrictions on any country, the language can be customized"
+    },
+    {
+      "technical_ico": "Speaker",
+      "content": "2W HD speaker"
+    },
+    {
+      "technical_ico": "Interface",
+      "content": "Type-C 5V1A charging interface"
+    },
+    {
+      "technical_ico": "Battery",
+      "content": "Device is USB powered, no battery"
+    },
+    {
+      "technical_ico": "SIM card",
+      "content": "Nano SIM card"
+    },
+    {
+      "technical_ico": "Working temperature",
+      "content": "-10℃～60℃"
+    },
+    {
+      "technical_ico": "Size",
+      "content": "101*76mm"
+    },
+    {
+      "technical_ico": "LOGO",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Panel",
+      "content": "Default English neutral/customizable"
+    },
+    {
+      "technical_ico": "Packaging",
+      "content": "Default kraft paper or white carton/can be customized"
+    },
+    {
+      "technical_ico": "Certificate",
+      "content": "Product Quality Certificate/Relevant Certifications You Need"
+    },
+    {
+      "technical_ico": "Customization",
+      "content": "Battery, language, LOGO, panel, packaging"
+    }
+  ]
+    },
+    {
+      "id": 123,
+      "name": "MD730",
+      "category_id": 5,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240509/1-2405091615055R.jpg",
+      "features": [
+        "Support 4G + WIFI",
+        "Broken code screen display",
+        "2.4-inch display screen, which can generate a QR code for payment",
+        "30W pixel camera",
+        "High speed thermal print head",
+        "Real-time voice broadcast",
+        "2000mAh battery",
+        "Low battery warning",
+        "View applet management",
+        "Audio content sampling rates: 8kHz to 48kHz"
+      ],
+      "description": "MD730 is designed for mobile payment such as cashier/order/takeaway printing. A 4G/WIFI payment collection and printing all-in-one machine is launched for payment collection/printing in demand places. It integrates a 2.4-inch display screen, a code-breaking screen, and a high-speed thermal print head to display and print current ordering and payment information in real time. It can effectively solve the problems of slow ordering and untimely ordering.",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-2405091615102c.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153122B6.png",
+        "content":"2.4-Inch High Screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240607/1-24060GJF33I.png",
+        "content":"Thermal printer"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240607/1-24060G5050b47.png",
+        "content":"Scanner"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Dynamic QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240607/1-24060G5101O46.png",
+        "content":"Keyboard"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A235L3.png",
+        "content":"LCD Digital Screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"2W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-2405091615102c.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161506231.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916150L19.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161521117.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161509314.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161524Q9.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161525419.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161532K1.jpg"],
+      "technical_info": [
+        {
+          "technical_ico": "Screen",
+          "content": "2.4-inch High screen"
+        },
+        {
+          "technical_ico": "Network",
+          "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only"
+        },
+        {
+          "technical_ico": "Chip",
+          "content": "ASR Multi-mode IoT chip"
+        },
+        {
+          "technical_ico": "RAM",
+          "content": "8MB"
+        },
+        {
+          "technical_ico": "ROM",
+          "content": "8MB"
+        },
+        {
+          "technical_ico": "Printer",
+          "content": "58mm thermal printer"
+        },
+        {
+          "technical_ico": "Screen",
+          "content": "Back LCD digital screen display"
+        },
+        {
+          "technical_ico": "Keyboard",
+          "content": "Keyboard"
+        },
+        {
+          "technical_ico": "Support code scanning",
+          "content": "1D&2D code"
+        },
+        {
+          "technical_ico": "Camera",
+          "content": "30W pixel"
+        },
+        {
+          "technical_ico": "Language",
+          "content": "The sample defaults to English/no restrictions on any country, the language can be customized"
+        },
+        {
+          "technical_ico": "Battery",
+          "content": "3.7V/2000mAh Li-Polymer battery (can be customized)"
+        },
+        {
+          "technical_ico": "Speaker",
+          "content": "2W HD speaker"
+        },
+        {
+          "technical_ico": "SIM card",
+          "content": "Nano SIM card"
+        },
+        {
+          "technical_ico": "OTA upgrade",
+          "content": "Support"
+        },
+        {
+          "technical_ico": "Interface",
+          "content": "Type-C 5V1A charging interface"
+        },
+        {
+          "technical_ico": "Working temperature",
+          "content": "-10℃～60℃"
+        },
+        {
+          "technical_ico": "Size",
+          "content": "NA"
+        },
+        {
+          "technical_ico": "LOGO",
+          "content": "Default English neutral/customizable"
+        },
+        {
+          "technical_ico": "Panel",
+          "content": "Default English neutral/customizable"
+        },
+        {
+          "technical_ico": "Packaging",
+          "content": "Default kraft paper or white carton/can be customized"
+        },
+        {
+          "technical_ico": "Certificate",
+          "content": "Product Quality Certificate/Relevant Certifications You Need"
+        },
+        {
+          "technical_ico": "Optional",
+          "content": "Network mode, RAM, ROM"
+        },
+        {
+          "technical_ico": "Customization",
+          "content": "Battery, language, LOGO, panel, packaging"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Y88",
+      "category_id": 5,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240528/1-24052PH514128.png",
+      "features": [
+        "Support 4G + WIFI",
+        "Segment code screen display",
+        "2.4-inch display screen, which can generate a QR code for payment",
+        "30W pixel camera",
+        "Support 19 keypad",
+        "Real-time voice broadcast",
+        "2000mAh battery",
+        "Low battery warning",
+        "View applet management",
+        "Audio content sampling rates: 8kHz to 48kHz"
+      ],
+      "description": "Y88 is designed for portable payment terminal, support amount enter and scan to pay. Network support 4G/WIFI payment collection. It integrates a 2.4-inch display screen, segment code screen, and 30W pixel camera head to display and scan the current ordering and payment information in real time. It can effectively solve the problems of slow ordering and untimely ordering.",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509162550413.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153122B6.png",
+        "content":"2.4-Inch High Screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240607/1-24060G5050b47.png",
+        "content":"Scanner"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Dynamic QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A235L3.png",
+        "content":"LCD Digital Screen"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240607/1-24060G5101O46.png",
+        "content":"Keyboard"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"2W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-240509162550413.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162542542.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162542227.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162541329.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162541950.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509162540411.jpg"],
+      "technical_info": [
+        {
+          "technical_ico": "Screen",
+          "content": "2.4-inch dynamic QR code"
+        },
+        {
+          "technical_ico": "Network",
+          "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only"
+        },
+        {
+          "technical_ico": "Chip",
+          "content": "IoT chip"
+        },
+        {
+          "technical_ico": "RAM",
+          "content": "8MB"
+        },
+        {
+          "technical_ico": "ROM",
+          "content": "8MB"
+        },
+        {
+          "technical_ico": "Screen",
+          "content": "Back LCD digital screen display"
+        },
+        {
+          "technical_ico": "Keyboard",
+          "content": "Keyboard"
+        },
+        {
+          "technical_ico": "Support code scanning",
+          "content": "1D&2D code"
+        },
+        {
+          "technical_ico": "Camera",
+          "content": "30W pixel"
+        },
+        {
+          "technical_ico": "Language",
+          "content": "The sample defaults to English/no restrictions on any country, the language can be customized"
+        },
+        {
+          "technical_ico": "Battery",
+          "content": "3.7V/2000mAh Li-Polymer battery (can be customized)"
+        },
+        {
+          "technical_ico": "Speaker",
+          "content": "2W HD speaker"
+        },
+        {
+          "technical_ico": "Interface",
+          "content": "Type-C 5V1A charging interface"
+        },
+        {
+          "technical_ico": "SIM card",
+          "content": "Nano SIM card"
+        },
+        {
+          "technical_ico": "LED light",
+          "content": "Blue/Red/Green"
+        },
+        {
+          "technical_ico": "OTA upgrade",
+          "content": "Support"
+        },
+        {
+          "technical_ico": "Working temperature",
+          "content": "-10℃～60℃"
+        },
+        {
+          "technical_ico": "Size",
+          "content": "NA"
+        },
+        {
+          "technical_ico": "LOGO",
+          "content": "Default English neutral/customizable"
+        },
+        {
+          "technical_ico": "Panel",
+          "content": "Default English neutral/customizable"
+        },
+        {
+          "technical_ico": "Packaging",
+          "content": "Default kraft paper or white carton/can be customized"
+        },
+        {
+          "technical_ico": "Certificate",
+          "content": "Product Quality Certificate/Relevant Certifications You Need"
+        },
+        {
+          "technical_ico": "Optional",
+          "content": "Network mode, RAM, ROM"
+        },
+        {
+          "technical_ico": "Customization",
+          "content": "Battery, language, LOGO, panel, packaging"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "name": "MD718",
+      "category_id": 6,
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240528/1-24052PH445427.png",
+      "features": [
+        "Support 4G CAT1 + WIFI dual-mode network combination",
+        "2W loud speaker",
+        "High speed thermal print head",
+        "Cloud printing",
+        "Cloud horn",
+        "Network Smart Switching",
+        "Real-time voice broadcast",
+        "4000mAh lithium polymer battery (optional)",
+        "Low battery warning",
+        "View applet management",
+        "Audio content sampling rates: 8kHz to 48kHz"
+      ],
+      "description": "MD718 is a cloud printing and voice cloud broadcast speaker customized for commercial payment scenarios, using 4G CAT1+WIFI Dual-mode network, integrated 2W loudspeaker and high-speed thermal print head. It can broadcast and print the current payment information and order in real time. It can effectively solve the problems of slow ordering and untimely ordering.",
+      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-24050916130T36.jpg",
+      "function": [
+        {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153121D6.png",
+        "content":"Contactless"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153Q1b6.png",
+        "content":"4G+2G+WIFI"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311VB.png",
+        "content":"Static QR Code"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240607/1-24060GJF33I.png",
+        "content":"Thermal Printer"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615311b29.png",
+        "content":"2W Speaker"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153112510.png",
+        "content":"Battery Reminder"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153125428.png",
+        "content":"Status Light"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531201Y.png",
+        "content":"High Adaptability"
+      },
+      {
+        "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161531145M.png",
+        "content":"Panel/LOGO"
+      }
+    ],
+      "images": ["http://www.hemiiot.com/uploads/allimg/20240509/1-24050916130T36.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161333417.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-2405091613055b.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161331E9.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161305157.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-240509161306128.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916130IE.jpg","http://www.hemiiot.com/uploads/allimg/20240509/1-24050916132a23.jpg"],
+      "technical_info": [
+    {
+      "technical_ico": "Screen",
+      "content": "Static QR code/custom panel",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532391K.png"
+    },
+    {
+      "technical_ico": "Network",
+      "content": "4G+2G+WIFI, 4G+WIFI (default), 4G+2G, 4G only, 2G+WiFi, 2G only",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153243343.png"
+    },
+    {
+      "technical_ico": "Chip",
+      "content": "ASR Multi-mode IoT chip",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532444H.png"
+    },
+    {
+      "technical_ico": "RAM",
+      "content": "8MB",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324UN.png"
+    },
+    {
+      "technical_ico": "ROM",
+      "content": "8MB",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153235A5.png"
+    },
+    {
+      "technical_ico": "Printer",
+      "content": "58mm thermal printer",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240607/1-24060GJKa49.png"
+    },
+    {
+      "technical_ico": "Language",
+      "content": "The sample defaults to English/no restrictions on any country, the language can be customized",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615324H34.png"
+    },
+    {
+      "technical_ico": "Battery",
+      "content": "3.7V/2000mAh Li-Polymer battery (can be customized)",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323B21.png"
+    },
+    {
+      "technical_ico": "Speaker",
+      "content": "2W HD speaker",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153246494.png"
+    },
+    {
+      "technical_ico": "SIM card",
+      "content": "Nano SIM card",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322Y27.png"
+    },
+    {
+      "technical_ico": "Button",
+      "content": "Volume +, Volume -, Power on/off, Repeat broadcast",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532304C.png"
+    },
+    {
+      "technical_ico": "OTA upgrade",
+      "content": "Support",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322H06.png"
+    },
+    {
+      "technical_ico": "Interface",
+      "content": "Type-C 5V1A charging interface",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615322U47.png"
+    },
+    {
+      "technical_ico": "Working temperature",
+      "content": "-10℃～60℃",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153249635.png"
+    },
+    {
+      "technical_ico": "Working temperature",
+      "content": "-10℃～60℃",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240520/1-2405200A2215a.png"
+    },
+    {
+      "technical_ico": "Size",
+      "content": "114*92*106.5mm",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153234442.png"
+    },
+    {
+      "technical_ico": "LOGO",
+      "content": "Default English neutral/customizable",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240518/1-24051Q51H4J7.png"
+    },
+    {
+      "technical_ico": "Panel",
+      "content": "Default English neutral/customizable",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153245607.png"
+    },
+    {
+      "technical_ico": "Packaging",
+      "content": "Default kraft paper or white carton/can be customized",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153231U1.png"
+    },
+    {
+      "technical_ico": "Certificate",
+      "content": "Product Quality Certificate/Relevant Certifications You Need",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-240516153229439.png"
+    },
+    {
+      "technical_ico": "Optional",
+      "content": "Network mode, RAM, ROM",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-24051615323O27.png"
+    },
+    {
+      "technical_ico": "Customization",
+      "content": "Battery, language, LOGO, panel, packaging",
+      "icon":"http://www.hemiiot.com/uploads/allimg/20240516/1-2405161532261T.png"
+    }
+  ]
+    }
+    
+    
+    
+    
+    
+    
+  ]
+}
