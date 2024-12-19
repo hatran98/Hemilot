@@ -3,19 +3,19 @@ const services = [
     title: "Custom Software Development",
     description:
       "At Hemipay Technology, we specialize in crafting bespoke software solutions designed to address the unique needs and challenges of our clients.",
-    img: "http://www.hemiiot.com/template/pc/skin/static/images/w26.png",
+    img: "/images/banner/customsoftwave.png",
   },
   {
     title: "Comprehensive IT Services",
     description:
       "Our team of experts offers a full spectrum of IT services, including technical consultation, system integration, and ongoing support.",
-    img:"http://www.hemiiot.com/template/pc/skin/static/images/w27.png"
+    img:"/images/banner/comprehensiveIT.png"
   },
   {
     title: "Electronic Products",
     description:
       "With our state-of-the-art manufacturing facility and extensive network of suppliers, we offer a wide range of high-quality electronic products.",
-    img:"http://www.hemiiot.com/template/pc/skin/static/images/w28.png"
+    img:"/images/banner/electronic.png"
   },
 ];
 

@@ -9,7 +9,7 @@ const SolutionPage = () => {
         className="absolute inset-0 bg-cover bg-center"
         style={{
           backgroundImage:
-            "url('https://www.trenditen.com/wp-content/uploads/2024/01/1920-%E8%83%8C%E6%99%AF01.jpg')",
+            "url('/images/banner/solution.jpg')",
         }}
       ></div>
 
@@ -42,7 +42,7 @@ const SolutionPage = () => {
       </div>
       <div className="px-4 max-w-6xl mx-auto">
         <img
-          src="http://www.hemiiot.com/uploads/allimg/20240430/1-24043015323Q06.jpg"
+          src="/images/banner/solution2.jpg"
           alt="Solution"
           className="rounded-lg w-full object-cover"
         />
@@ -51,7 +51,7 @@ const SolutionPage = () => {
     <section
       className="flex justify-end bg-cover bg-center py-48 h-[650px]"
       style={{
-        backgroundImage: "url('http://www.hemiiot.com/template/pc/skin/static/images/11tu.jpg')",
+        backgroundImage: "url('/images/banner/solution11tu.jpg')",
       }}
     >
       <div className="w-full md:w-1/3 px-4 mb-8">
@@ -77,7 +77,7 @@ const SolutionPage = () => {
           Gain insights into the workflow of the Hemipay mobile payment solution, effortlessly achieving a secure and efficient payment experience. From selecting the payment method to completing the transaction, every step is seamlessly covered.
           </p>
         </div>
-        <img src ="http://www.hemiiot.com/uploads/allimg/20240521/1-240521053550127.png" alt="Solution" className="rounded-lg w-2/3 object-cover mx-auto" />
+        <img src ="/images/banner/solution3.png" alt="Solution" className="rounded-lg w-2/3 object-cover mx-auto" />
     </section>
     <section className="relative h-[1000px]">
   {/* Background Image */}
@@ -85,7 +85,7 @@ const SolutionPage = () => {
     className="absolute inset-0 bg-cover bg-center"
     style={{
       backgroundImage:
-        "url('https://www.trenditen.com/wp-content/uploads/2023/12/banner-5.jpg')",
+        "url('/images/banner/banner-5solution.jpg')",
     }}
   ></div>
 
@@ -106,14 +106,14 @@ const SolutionPage = () => {
   <div className="absolute inset-x-0 flex justify-center space-x-4 px-4 w-[1400px] top-1/3 left-32">
     <div className="w-full md:w-2/3">
       <img
-        src="http://www.hemiiot.com/template/pc/skin/static/images/12tu.png"
+        src="/images/banner/solution4.png"
         alt="Solution"
         className="w-full h-auto rounded-lg shadow-lg object-contain ml-32"
       />
     </div>
     <div className="w-full md:w-[400px]">
       <img
-        src="http://www.hemiiot.com/template/pc/skin/static/images/14tu.png"
+        src="/images/banner/solution5.png"
         alt="Solution"
         className="w-full h-1/2 rounded-lg shadow-lg object-contain"
       />
@@ -130,9 +130,9 @@ const SolutionPage = () => {
           By supporting FOTA, the mobile payment solution can remotely update firmware, ensuring that the system always maintains the latest features and security. 
 This remote upgrade method avoids the hassle of manual updates, enhancing the system’s  maintainability and reliability.          </p>
         </div>
-        <img src ="http://www.hemiiot.com/template/pc/skin/static/images/13tu.png" alt="Solution" className="rounded-lg w-3/4 object-cover mx-auto" />
+        <img src ="/images/banner/solution6OTA.png" alt="Solution" className="rounded-lg w-3/4 object-cover mx-auto" />
     </section>
-    <section className="relative bg-cover bg-center h-[800px]" style={{ backgroundImage: "url('https://www.trenditen.com/wp-content/uploads/2024/01/1920-%E8%83%8C%E6%99%AF05.jpg')" }}>
+    <section className="relative bg-cover bg-center h-[800px]" style={{ backgroundImage: "url('/images/banner/solution1920.jpg')" }}>
   <div className="absolute inset-0 bg-black opacity-30"></div> {/* Overlay để làm mờ ảnh nền */}
   
   <div className="relative z-10 flex flex-col items-center justify-center text-center px-4 h-full">
@@ -144,7 +144,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
   <div className="flex flex-col items-start text-white text-left py-10">
     {/* Icon */}
     <div className="w-16 h-16 mb-4 bg-blue-500 rounded-full flex justify-center items-center">
-      <img src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050P95R0E7.png" className="text-white text-2xl"/>
+      <img src="/images/banner/optimization.png" className="text-white text-2xl"/>
     </div>
     <h3 className="font-semibold text-xl mb-2">Optimization For User Experience</h3>
     <p>Through customized services, not only does it enhance the adaptability of the solution, but it also improves user experience, ensuring a continuous increase in satisfaction.</p>
@@ -153,7 +153,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
   <div className="flex flex-col items-start text-white text-left py-10">
     {/* Icon */}
     <div className="w-16 h-16 mb-4 bg-green-500 rounded-full flex justify-center items-center">
-    <img src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050P95F0V6.png" className="text-white text-2xl"/>
+    <img src="/images/banner/realtime.png" className="text-white text-2xl"/>
     </div>
     <h3 className="font-semibold text-xl mb-2">Real-Time Adjustments</h3>
     <p>As business requirements evolve, merchants can make real-time adjustments to custom settings, ensuring that the solution always aligns with the latest demands.</p>
@@ -162,7 +162,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
   <div className="flex flex-col items-start text-white text-left py-10">
     {/* Icon */}
     <div className="w-16 h-16 mb-4 bg-red-500 rounded-full flex justify-center items-center">
-      <img src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050P95613442.png" className="text-white text-2xl"/>
+      <img src="/images/banner/comprehensive.png" className="text-white text-2xl"/>
     </div>
     <h3 className="font-semibold text-xl mb-2">Comprehensive Support</h3>
     <p>Providing multidimensional support, including business processes and interface design, to meet merchants' personalized needs on various levels.</p>
@@ -171,7 +171,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
   <div className="flex flex-col items-start text-white text-left py-10">
     {/* Icon */}
     <div className="w-16 h-16 mb-4 bg-yellow-500 rounded-full flex justify-center items-center">
-      <img src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050P95524945.png" className="text-white text-2xl"/>
+      <img src="/images/banner/flexible.png" className="text-white text-2xl"/>
     </div>
     <h3 className="font-semibold text-xl mb-2">Flexible Customization</h3>
     <p>Merchants can freely choose and adjust system functionalities based on specific business requirements, achieving personalized customization.</p>
@@ -184,7 +184,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
     <h2 className="text-3xl md:text-[45px] font-bold text-center my-16">Secure Real-Time Communication</h2>    
     <div className="grid grid-cols-1 md:grid-cols-4 gap-8">      
       <div className="flex flex-col items-center text-center p-6 transition-shadow duration-300">
-        <img src="https://www.trenditen.com/wp-content/uploads/2024/01/%E5%AE%9E%E6%97%B6%E9%80%9A%E4%BF%A1.png" alt="Solution" className="w-32 h-32 mb-4" />
+        <img src="/images/banner/ensuringtransaction.png" alt="Solution" className="w-32 h-32 mb-4" />
         <h3 className="text-xl font-bold mb-2">Ensuring Transaction Integrity And Traceability
         </h3>
         <p className="text-gray-600">
@@ -192,7 +192,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
         </p>
       </div>
       <div className="flex flex-col items-center text-center p-6 transition-shadow duration-300">
-        <img src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050Q04K5b9.png" alt="Solution" className="w-32 h-32 mb-4" />
+        <img src="/images/banner/preventing.png" alt="Solution" className="w-32 h-32 mb-4" />
         <h3 className="text-xl font-bold mb-2">Preventing Message Loss
         </h3>
         <p className="text-gray-600">
@@ -200,7 +200,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
         </p>
       </div>
       <div className="flex flex-col items-center text-center p-6 transition-shadow duration-300">
-        <img src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050Q04H1248.png" alt="Solution" className="w-32 h-32 mb-4" />
+        <img src="/images/banner/enhancingpayment.png" alt="Solution" className="w-32 h-32 mb-4" />
         <h3 className="text-xl font-bold mb-2">Enhancing Payment System Security
         </h3>
         <p className="text-gray-600">
@@ -208,7 +208,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
         </p>
       </div>
       <div className="flex flex-col items-center text-center p-6 transition-shadow duration-300">
-        <img src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050Q04145606.png" alt="Solution" className="w-32 h-32 mb-4" />
+        <img src="/images/banner/encryptedata.png" alt="Solution" className="w-32 h-32 mb-4" />
         <h3 className="text-xl font-bold mb-2">Encrypted Data Transmission
         </h3>
         <p className="text-gray-600">
@@ -224,7 +224,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
     </h2>    
     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">      
       <div className="flex flex-col p-6 transition-shadow duration-300 border-2 border-[#f6f6f7] rounded-lg text-left items-start bg-white">
-        <img src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050Q05125O9.png" alt="Solution" className="w-44 h-44 mb-4" />
+        <img src="/images/banner/secure.png" alt="Solution" className="w-44 h-44 mb-4" />
         <h3 className="text-[30px] font-bold mb-2">Secure And Reliable
         </h3>
         <p className="text-gray-600 text-[20px]">
@@ -232,7 +232,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
         </p>
       </div>
       <div className="flex flex-col p-6 transition-shadow duration-300 border-2 border-[#f6f6f7] rounded-lg text-left items-start bg-white">
-        <img src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050Q05044528.png" alt="Solution" className="w-44 h-44 mb-4" />
+        <img src="/images/banner/integrated.png" alt="Solution" className="w-44 h-44 mb-4" />
         <h3 className="text-[30px] font-bold mb-2">Integrated Solution
         </h3>
         <p className="text-gray-600 text-[20px]">
@@ -243,7 +243,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
     </div>
   </div>
 </section>
-<section className="relative bg-cover bg-center h-[800px]" style={{ backgroundImage: "url('https://www.trenditen.com/wp-content/uploads/2023/12/banner-7.jpg')" }}>
+<section className="relative bg-cover bg-center h-[800px]" style={{ backgroundImage: "url('/images/banner/banner-7.jpg')" }}>
   <div className="absolute inset-0 bg-black opacity-30"></div> {/* Overlay để làm mờ ảnh nền */}
   
   <div className="relative z-10 flex flex-col items-center justify-center text-center px-4 h-full">
@@ -254,7 +254,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
     <div className="flex flex-col items-start text-white text-left py-10">
   <div className="w-48 h-48 mb-4 flex justify-start items-start">
     <img 
-      src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050Q23102A3.png" 
+      src="/images/banner/softwareservices.png" 
       className="w-32 h-32" 
       alt="Software Services"
     />
@@ -269,7 +269,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
 <div className="flex flex-col items-start text-white text-left py-10">
   <div className="w-48 h-48 mb-4 flex justify-start items-start">
     <img 
-      src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050Q12K4164.png" 
+      src="/images/banner/hardwaveservices.png" 
       className="w-32 h-32" 
       alt="Hardware Devices"
     />
@@ -282,7 +282,7 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
 </div>
   </div>
 </section>
-<section class="bg-gray-100 py-16 relative h-[700px] bg-cover bg-center" style={{backgroundImage: "url('https://www.trenditen.com/wp-content/uploads/2023/12/banner-8.jpg')"}}>
+<section class="bg-gray-100 py-16 relative h-[700px] bg-cover bg-center" style={{backgroundImage: "url('/images/banner/banner-8.jpg')"}}>
   <div className="flex items-center justify-end absolute top-1/2 right-0 transform -translate-y-1/2 w-1/2 pr-8 text-black">
     <div>
       <h3 className="text-[45px] font-semibold mb-4">Payment Services</h3>
@@ -303,18 +303,18 @@ This remote upgrade method avoids the hassle of manual updates, enhancing the sy
 </p>
     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">      
       <div className="flex flex-col p-6 transition-shadow duration-300 text-left items-center">
-        <img src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050Q443312B.png" alt="Solution" className="w-40 h-40 mb-4" />
+        <img src="/images/banner/flexible.png" alt="Solution" className="w-40 h-40 mb-4" />
         <h3 className="text-[30px] font-bold mb-2">Flexible
         </h3>
       </div>
       <div className="flex flex-col p-6 transition-shadow duration-300text-left items-center">
-        <img src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050Q44252124.png" alt="Solution" className="w-40 h-40 mb-4" />
+        <img src="/images/banner/efficent.png" alt="Solution" className="w-40 h-40 mb-4" />
         <h3 className="text-[30px] font-bold mb-2">Efficient
 
         </h3>
       </div>
       <div className="flex flex-col p-6 transition-shadow duration-300 text-left items-center">
-        <img src="http://www.hemiiot.com/uploads/allimg/20240508/1-24050Q4415b06.png" alt="Solution" className="w-40 h-40 mb-4" />
+        <img src="/images/banner/secure.png" alt="Solution" className="w-40 h-40 mb-4" />
         <h3 className="text-[30px] font-bold mb-2">Secure
 
         </h3>

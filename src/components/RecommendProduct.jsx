@@ -1,12 +1,12 @@
 const RecommendedProducts = () => {
   // Dữ liệu sản phẩm giả lập (có thể thay đổi theo dữ liệu thực tế của bạn)
   const products = [
-    { id: 1, name: "Y90B", description: "", description_2: "", image: "http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6152PQ49.jpg" },
-    { id: 2, name: "Y90A", description: "", description_2: "", image: "http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6152PQ49.jpg" },
-    { id: 3, name: "MD711", description: "QR Code Payment Speaker" , description_2: "Desktop tabletop, LCD screen", image: "http://www.hemiiot.com/uploads/allimg/20240528/1-24052PH555533.png" },
-    { id: 4, name: "MD760D", description: "2.4, Double-sided screen, External keyboard", description_2: "The most full-featured QR code payment speaker", image: "http://www.hemiiot.com/uploads/allimg/20240528/1-24052PH612K2.png" },
-    { id: 5, name: "Y30", description: "Static QR Code Payment Speaker", description_2: "Ultra-convenient ID Card Type", image: "http://www.hemiiot.com/uploads/allimg/20240528/1-24052PH63Y50.png" },
-    { id: 6, name: "Y86", description: "Aggregate Payment Terminal", description_2: "Convenient Scanning QR Code Cash Receiving Equipment", image: "http://www.hemiiot.com/uploads/allimg/20240816/1-240Q6140041404.png" },
+    { id: 1, name: "Y90B", description: "", description_2: "", image: "/images/y90b/icon/1.jpg" },
+    { id: 2, name: "Y90A", description: "", description_2: "", image: "/images/y90a/icon/1.jpg" },
+    { id: 3, name: "MD711", description: "QR Code Payment Speaker" , description_2: "Desktop tabletop, LCD screen", image: "/images/md711/icon/1.png" },
+    { id: 4, name: "MD760D", description: "2.4, Double-sided screen, External keyboard", description_2: "The most full-featured QR code payment speaker", image: "/images/md760d/icon/1.png" },
+    { id: 5, name: "Y30", description: "Static QR Code Payment Speaker", description_2: "Ultra-convenient ID Card Type", image: "/images/y30/icon/1.png" },
+    { id: 6, name: "Y86", description: "Aggregate Payment Terminal", description_2: "Convenient Scanning QR Code Cash Receiving Equipment", image: "/images/y86/icon/1.png" },
   ];
 
   return (

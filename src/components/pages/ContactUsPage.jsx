@@ -4,7 +4,7 @@ const ContactUsPage = () => {
         <div>
              <section className="banner mb-10 h-[800px]">
         <img 
-          src="http://www.hemiiot.com/uploads/allimg/20240527/1-24052F92J5a5.jpg" 
+          src="/images/banner/contactus.jpg" 
           alt="About Us Banner" 
           className="w-full h-full object-cover"
         />
@@ -20,28 +20,28 @@ const ContactUsPage = () => {
   <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 px-6 md:px-0 w-2/3 mx-auto">
   {/* Address */}
   <div className="text-center p-6 rounded-lg">
-    <img src="http://www.hemiiot.com/template/pc/skin/static/images/w2.png" className="w-20 h-20 mx-auto mb-4" alt="Address" />
+    <img src="/images/banner/addressContact.png" className="w-20 h-20 mx-auto mb-4" alt="Address" />
     <h4 className="text-xl font-semibold text-[#3A62AD] mb-2">Address</h4>
     <p className="text-gray-600 text-sm">123 Main Street, City, State, ZIP Code</p>
   </div>
   
   {/* Email */}
   <div className="text-center p-6 rounded-lg">
-    <img src="http://www.hemiiot.com/template/pc/skin/static/images/w3.png" className="w-20 h-20 mx-auto mb-4" alt="Email" />
+    <img src="/images/banner/emailContact.png" className="w-20 h-20 mx-auto mb-4" alt="Email" />
     <h4 className="text-xl font-semibold text-[#3A62AD] mb-2">Email</h4>
     <p className="text-gray-600 text-sm">zvL0Y@example.com</p>
   </div>
   
   {/* Phone */}
   <div className="text-center p-6 rounded-lg">
-    <img src="http://www.hemiiot.com/template/pc/skin/static/images/w4.png" className="w-20 h-20 mx-auto mb-4" alt="Phone" />
+    <img src="/images/banner/phoneContact.png" className="w-20 h-20 mx-auto mb-4" alt="Phone" />
     <h4 className="text-xl font-semibold text-[#3A62AD] mb-2">Phone</h4>
     <p className="text-gray-600 text-sm">+85266491585</p>
   </div>
   
   {/* Hours */}
   <div className="text-center p-6 rounded-lg">
-    <img src="http://www.hemiiot.com/template/pc/skin/static/images/w5.png" className="w-20 h-20 mx-auto mb-4" alt="Hours" />
+    <img src="/images/banner/hourContact.png" className="w-20 h-20 mx-auto mb-4" alt="Hours" />
     <h4 className="text-xl font-semibold text-[#3A62AD] mb-2">Hours</h4>
     <p className="text-gray-600 text-sm">Monday-Friday: 9am to 6.30pm<br/>Saturday, Sunday: Closed</p>
   </div>

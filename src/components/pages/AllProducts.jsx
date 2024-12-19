@@ -37,7 +37,7 @@ const Products = () => {
         <div>
             {/* Image Section */}
             <img 
-                src="http://www.hemiiot.com/uploads/allimg/20240527/1-24052F92S1U9.jpg" 
+                src="/images/banner/productImage.jpg" 
                 alt="Product Image" 
                 className="w-full h-auto object-cover" 
             />
@@ -75,7 +75,7 @@ const Products = () => {
                                 <Link to={`/product/${product.id}`} key={index}>
                                     <div className="p-4 flex justify-start border-b-2 bg-white">
                                         <img 
-                                            src={product.main_image} 
+                                            src={`/images/${product.main_image}`} 
                                             alt={product.name} 
                                             className="h-40 w-24 object-cover mb-4" 
                                         />

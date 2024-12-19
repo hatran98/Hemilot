@@ -3,7 +3,7 @@ const AboutUsPage = () => {
     <div className="about-us-page">
       <section className="banner mb-10 h-[800px]">
         <img 
-          src="http://www.hemiiot.com/uploads/allimg/20240527/1-24052F92A5622.jpg" 
+          src="/images/banner/aboutus.jpg" 
           alt="About Us Banner" 
           className="w-full h-full object-cover"
         />
@@ -23,7 +23,7 @@ const AboutUsPage = () => {
   {/* Ảnh bên phải */}
   <div className="image-section w-full md:w-1/3">
     <img 
-      src="http://www.hemiiot.com/template/pc/skin/static/images/w8.png" 
+      src="/images/banner/w8.png" 
       alt="About Us" 
       className="w-full h-auto object-cover max-w-full mx-auto"  // Giảm kích thước ảnh và căn giữa
     />
@@ -36,9 +36,9 @@ const AboutUsPage = () => {
   <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
     <div className="relative group h-[400px]">
       <div
-        className="absolute inset-0 bg-cover bg-center h-[400px]"
+        className="absolute inset-0 bg-cover bg-center h-[410px]"
         style={{
-          backgroundImage: 'url(http://www.hemiiot.com/template/pc/skin/static/images/w11.png)',
+          backgroundImage: 'url("/images/banner/w11.png")',
         }}
       ></div>
 
@@ -57,9 +57,9 @@ const AboutUsPage = () => {
 
     <div className="relative group h-[400px]">
       <div
-        className="absolute inset-0 bg-cover bg-center h-[400px]"
+        className="absolute inset-0 bg-cover bg-center h-[410px]"
         style={{
-          backgroundImage: 'url(http://www.hemiiot.com/template/pc/skin/static/images/w10.png)',
+          backgroundImage: 'url("/images/banner/w10.png")',
         }}
       ></div>
 
@@ -78,9 +78,9 @@ const AboutUsPage = () => {
 
     <div className="relative group h-[400px]">
       <div
-        className="absolute inset-0 bg-cover bg-center h-[400px]"
+        className="absolute inset-0 bg-cover bg-center h-[410px]"
         style={{
-          backgroundImage: 'url(http://www.hemiiot.com/template/pc/skin/static/images/w9.png)',
+          backgroundImage: 'url("/images/banner/w9.png")',
         }}
       ></div>
 
