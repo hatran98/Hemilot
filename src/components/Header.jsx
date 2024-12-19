@@ -29,7 +29,7 @@ const Header = () => {
       <div className="flex justify-between items-center mx-auto max-w-screen-xl">
         <div className="logo">
           <a href="/">
-            <img style={{ height: '50px' }} src="http://www.hemiiot.com/uploads/allimg/20240403/1-24040314033H36.png" alt="HEMIPAY Logo" />
+            <img style={{ height: '50px' }} src='/images/banner/Logo.png' alt="HEMIPAY Logo" />
           </a>
         </div>
 
