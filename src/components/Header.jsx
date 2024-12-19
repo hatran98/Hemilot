@@ -11,7 +11,7 @@ const Header = () => {
       .filter(product => product.category_id === categoryId)
       .map(product => (
         <a key={product.id} href={`/product/${product.id}`} className="px-4 py-2 text-gray-800 hover:bg-blue-100 flex items-center">
-          <img src={product.icon} alt={product.name} className="w-16 h-16 object-cover mr-3" />
+          <img src={`/images/${product.icon}`} alt={product.name} className="w-16 h-16 object-cover mr-3" />
           {product.name}
         </a>
       ));

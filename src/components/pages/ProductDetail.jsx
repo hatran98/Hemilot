@@ -32,7 +32,7 @@ const ProductDetail = () => {
                     <div className="space-y-4">
                         <div>
                             <img
-                                src={`/public/images/${mainImage}`}
+                                src={`/images/${mainImage}`}
                                 alt={product.name}
                                 className="w-full h-auto object-cover rounded-lg"
                             />
@@ -62,7 +62,7 @@ const ProductDetail = () => {
                             {product.images.map((image, index) => (
                                 <img
                                     key={index}
-                                    src={`/public/images/${image}`}
+                                    src={`/images/${image}`}
                                     alt={`product-image-${index}`}
                                     className={`w-24 h-24 object-cover rounded-lg cursor-pointer border-2 transition-all ${currentIndex == index ? "border-orange-500" : "border-gray-300"
                                         }`}
@@ -114,7 +114,7 @@ const ProductDetail = () => {
                             {product.function.map((feature, index) => (
                                 <div key={index} className="text-center flex-shrink-0 w-1/5 flex flex-col items-center justify-start h-24">
                                     <img
-                                        src={feature.icon}
+                                        src={`/images/${feature.icon}`}
                                         alt={feature.name}
                                         className="mx-auto w-24 h-10 object-contain mb-2 border-2 p-2"
                                     />
@@ -135,7 +135,7 @@ const ProductDetail = () => {
                         {product.technical_info.map((spec, index) => (
                             <div key={index} className="flex items-center justify-start space-x-4 text-white">
                                 <img
-                                    src={spec.icon}
+                                    src={`/images/${spec.icon}`}
                                     alt={spec.technical_ico}
                                     className="w-12 h-12 object-contain"
                                 />

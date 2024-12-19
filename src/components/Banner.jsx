@@ -5,9 +5,9 @@ const Banner = () => {
 
   // Danh sách hình ảnh cho các slide
   const slides = [
-    "/public/images/banner/home.jpg", 
-    "/public/images/banner/home2.jpg", 
-   "/public/images/banner/home3.jpg", 
+    "images/banner/home.jpg", 
+    "images/banner/home2.jpg", 
+   "images/banner/home3.jpg", 
   ];
 
   // Chuyển slide tự động mỗi 3 giây

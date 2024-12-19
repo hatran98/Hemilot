@@ -958,7 +958,7 @@
       "icon": "md760a/icon/1.jpg",
       "features": [],
       "description": "",
-      "main_image": "http://www.hemiiot.com/uploads/allimg/20240509/1-240509161H0N0.jpg",
+      "main_image": "md760a/detail/1.jpg",
       "function": [
         {
           "icon": "function/contactless.png",
@@ -1474,7 +1474,7 @@
       "icon": "y50a/icon/1.jpg",
       "features": [],
       "description": "",
-      "main_image": "",
+      "main_image": "/default.jpg",
       "function": [
         {
           "icon": "function/contactless.png",
@@ -1785,7 +1785,7 @@
       "id": 111,
       "name": "Y90B",
       "category_id": 3,
-      "icon": "y90b/icon/1.jpb",
+      "icon": "y90b/icon/1.jpg",
       "features": [
         "Support 4G + WIFI",
         "Chipset ROM+RAM: 8MB+8MB/4MB+4MB (option)",
@@ -2291,7 +2291,7 @@
       "icon": "md760d/icon/1.png",
       "features": [],
       "description": "",
-      "main_image": "",
+      "main_image": "/default.jpg",
       "function": [],
       "images": [    
       ],
@@ -2646,7 +2646,7 @@
       "icon": "md716b/icon/1.jpg",
       "features": [],
       "description": "",
-      "main_image": "",
+      "main_image": "/default.jpg",
       "function": [
         {
           "icon": "function/contactless.png",
@@ -3333,7 +3333,7 @@
           "content": "4G+2G+WIFI"
         },
         {
-          "icon": "technical/keyboard.png",
+          "icon": "function/keyboard.png",
           "content": "Keyboard"
         },
         {
@@ -3520,7 +3520,7 @@
           "content": "4G+2G+WIFI"
         },
         {
-          "icon": "technical/keyboard.png",
+          "icon": "function/keyboard.png",
           "content": "Keyboard"
         },
         {

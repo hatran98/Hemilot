@@ -92,7 +92,7 @@ const Products = () => {
                         {filteredProducts.map((product, index) => ( 
                             <div key={index} className="border p-4">
                                 <img 
-                                    src={product.main_image} 
+                                    src={`/images/${product.main_image}`} 
                                     alt={product.name} 
                                     className="w-full h-40 object-cover mb-4" 
                                 />
