@@ -5,9 +5,9 @@ const Banner = () => {
 
   // Danh sách hình ảnh cho các slide
   const slides = [
-    "http://www.hemiiot.com/uploads/allimg/20240518/1-24051QS603337.jpg", 
-    "http://www.hemiiot.com/uploads/allimg/20240518/1-24051QS605939.jpg",
-    "http://www.hemiiot.com/uploads/allimg/20240518/1-24051QS600545.jpg",
+    "/public/images/banner/home.jpg", 
+    "/public/images/banner/home2.jpg", 
+   "/public/images/banner/home3.jpg", 
   ];
 
   // Chuyển slide tự động mỗi 3 giây
