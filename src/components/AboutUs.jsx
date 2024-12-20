@@ -30,7 +30,7 @@ const AboutUs = () => {
             services and products focused on delivering innovative solutions to meet
             the ever-changing needs of businesses around the world.
           </p>
-          <a href="#" className="text-white absolute right-10 bottom-20">MORE →</a> 
+          <a href="/about-us" className="text-white absolute right-10 bottom-20">MORE →</a> 
           </div>
             </div>
         </div>
